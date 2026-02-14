@@ -1,0 +1,2256 @@
+VCD info: dumpfile mod10counter_wave.vcd opened for output.
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+ERROR!!! Testcase 3_3: Load low ,count < 4'b10
+Rst=0|Load=0|Count= x ||| Correct=          0 | Error =           2
+ERROR!!! Testcase 3_3: Load low ,count < 4'b10
+Rst=1|Load=0|Count= x ||| Correct=          0 | Error =           3
+Rst=1|Load=0|Count= 0 ||| Correct=          2 | Error =           3
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=0|Count= 1 ||| Correct=          7 | Error =           4
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=0|Count= 2 ||| Correct=          9 | Error =           5
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=0|Count= 3 ||| Correct=         11 | Error =           6
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=0|Count= 4 ||| Correct=         13 | Error =           7
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+ERROR!!! Testcase 3_1: Load high , din>10, count == 4'b0
+Rst=0|Load=1|Count= 4 ||| Correct=         14 | Error =           9
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+ERROR!!! Testcase 2: Check count value (greater than or equal to 0) or (less than 10)
+ERROR!!! Testcase 3_1: Load high , din>10, count == 4'b0
+Rst=0|Load=1|Count=10 ||| Correct=         14 | Error =          12
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+ERROR!!! Testcase 2: Check count value (greater than or equal to 0) or (less than 10)
+ERROR!!! Testcase 3_1: Load high , din>10, count == 4'b0
+Rst=0|Load=1|Count=10 ||| Correct=         14 | Error =          15
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+ERROR!!! Testcase 2: Check count value (greater than or equal to 0) or (less than 10)
+ERROR!!! Testcase 3_1: Load high , din>10, count == 4'b0
+Rst=0|Load=1|Count=11 ||| Correct=         14 | Error =          18
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+ERROR!!! Testcase 2: Check count value (greater than or equal to 0) or (less than 10)
+ERROR!!! Testcase 3_3: Load low ,count < 4'b10
+Rst=0|Load=0|Count=11 ||| Correct=         14 | Error =          21
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+ERROR!!! Testcase 2: Check count value (greater than or equal to 0) or (less than 10)
+ERROR!!! Testcase 3_3: Load low ,count < 4'b10
+Rst=0|Load=0|Count=11 ||| Correct=         14 | Error =          24
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+ERROR!!! Testcase 2: Check count value (greater than or equal to 0) or (less than 10)
+ERROR!!! Testcase 3_1: Load high , din>10, count == 4'b0
+Rst=0|Load=1|Count=11 ||| Correct=         14 | Error =          27
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+ERROR!!! Testcase 2: Check count value (greater than or equal to 0) or (less than 10)
+ERROR!!! Testcase 3_1: Load high , din>10, count == 4'b0
+Rst=0|Load=1|Count=12 ||| Correct=         14 | Error =          30
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+ERROR!!! Testcase 2: Check count value (greater than or equal to 0) or (less than 10)
+ERROR!!! Testcase 3_1: Load high , din>10, count == 4'b0
+Rst=0|Load=1|Count=12 ||| Correct=         14 | Error =          33
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+ERROR!!! Testcase 2: Check count value (greater than or equal to 0) or (less than 10)
+ERROR!!! Testcase 3_1: Load high , din>10, count == 4'b0
+Rst=0|Load=1|Count=13 ||| Correct=         14 | Error =          36
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+ERROR!!! Testcase 2: Check count value (greater than or equal to 0) or (less than 10)
+ERROR!!! Testcase 3_3: Load low ,count < 4'b10
+Rst=0|Load=0|Count=13 ||| Correct=         14 | Error =          39
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+ERROR!!! Testcase 2: Check count value (greater than or equal to 0) or (less than 10)
+ERROR!!! Testcase 3_3: Load low ,count < 4'b10
+Rst=0|Load=0|Count=13 ||| Correct=         14 | Error =          42
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+ERROR!!! Testcase 2: Check count value (greater than or equal to 0) or (less than 10)
+ERROR!!! Testcase 3_1: Load high , din>10, count == 4'b0
+Rst=0|Load=1|Count=13 ||| Correct=         14 | Error =          45
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+ERROR!!! Testcase 2: Check count value (greater than or equal to 0) or (less than 10)
+ERROR!!! Testcase 3_1: Load high , din>10, count == 4'b0
+Rst=0|Load=1|Count=14 ||| Correct=         14 | Error =          48
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+ERROR!!! Testcase 2: Check count value (greater than or equal to 0) or (less than 10)
+ERROR!!! Testcase 3_1: Load high , din>10, count == 4'b0
+Rst=0|Load=1|Count=14 ||| Correct=         14 | Error =          51
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+ERROR!!! Testcase 2: Check count value (greater than or equal to 0) or (less than 10)
+ERROR!!! Testcase 3_1: Load high , din>10, count == 4'b0
+Rst=0|Load=1|Count=15 ||| Correct=         14 | Error =          54
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+ERROR!!! Testcase 2: Check count value (greater than or equal to 0) or (less than 10)
+ERROR!!! Testcase 3_3: Load low ,count < 4'b10
+Rst=0|Load=0|Count=15 ||| Correct=         14 | Error =          57
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+ERROR!!! Testcase 2: Check count value (greater than or equal to 0) or (less than 10)
+ERROR!!! Testcase 3_3: Load low ,count < 4'b10
+Rst=0|Load=0|Count=15 ||| Correct=         14 | Error =          60
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+ERROR!!! Testcase 2: Check count value (greater than or equal to 0) or (less than 10)
+ERROR!!! Testcase 3_2: Load high , din<10, count < 4'b10
+Rst=0|Load=1|Count=15 ||| Correct=         14 | Error =          63
+Rst=0|Load=1|Count= 0 ||| Correct=         17 | Error =          63
+Rst=0|Load=1|Count= 0 ||| Correct=         20 | Error =          63
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=1|Count= 1 ||| Correct=         22 | Error =          64
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=0|Count= 1 ||| Correct=         24 | Error =          65
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=0|Count= 2 ||| Correct=         26 | Error =          66
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=0|Count= 2 ||| Correct=         28 | Error =          67
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=0|Count= 3 ||| Correct=         30 | Error =          68
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=0|Count= 4 ||| Correct=         32 | Error =          69
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=0|Count= 5 ||| Correct=         34 | Error =          70
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=1|Count= 5 ||| Correct=         36 | Error =          71
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=1|Count= 2 ||| Correct=         38 | Error =          72
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=1|Count= 2 ||| Correct=         40 | Error =          73
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=1|Count= 3 ||| Correct=         42 | Error =          74
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=0|Count= 3 ||| Correct=         44 | Error =          75
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=0|Count= 4 ||| Correct=         46 | Error =          76
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=0|Count= 4 ||| Correct=         48 | Error =          77
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=0|Count= 5 ||| Correct=         50 | Error =          78
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=0|Count= 6 ||| Correct=         52 | Error =          79
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=0|Count= 7 ||| Correct=         54 | Error =          80
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=1|Count= 7 ||| Correct=         56 | Error =          81
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=1|Count= 4 ||| Correct=         58 | Error =          82
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=1|Count= 4 ||| Correct=         60 | Error =          83
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=1|Count= 5 ||| Correct=         62 | Error =          84
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=0|Count= 5 ||| Correct=         64 | Error =          85
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=0|Count= 6 ||| Correct=         66 | Error =          86
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=0|Count= 6 ||| Correct=         68 | Error =          87
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=0|Count= 7 ||| Correct=         70 | Error =          88
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=0|Count= 8 ||| Correct=         72 | Error =          89
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=0|Count= 9 ||| Correct=         74 | Error =          90
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=1|Count= 9 ||| Correct=         76 | Error =          91
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=1|Count= 6 ||| Correct=         78 | Error =          92
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=1|Count= 6 ||| Correct=         80 | Error =          93
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=1|Count= 7 ||| Correct=         82 | Error =          94
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=0|Count= 7 ||| Correct=         84 | Error =          95
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=0|Count= 8 ||| Correct=         86 | Error =          96
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=0|Count= 8 ||| Correct=         88 | Error =          97
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=0|Count= 9 ||| Correct=         90 | Error =          98
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+ERROR!!! Testcase 2: Check count value (greater than or equal to 0) or (less than 10)
+ERROR!!! Testcase 3_3: Load low ,count < 4'b10
+Rst=0|Load=0|Count=10 ||| Correct=         90 | Error =         101
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+ERROR!!! Testcase 2: Check count value (greater than or equal to 0) or (less than 10)
+ERROR!!! Testcase 3_2: Load high , din<10, count < 4'b10
+Rst=0|Load=1|Count=10 ||| Correct=         90 | Error =         104
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=1|Count= 8 ||| Correct=         92 | Error =         105
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=1|Count= 8 ||| Correct=         94 | Error =         106
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=1|Count= 9 ||| Correct=         96 | Error =         107
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=0|Count= 9 ||| Correct=         98 | Error =         108
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+ERROR!!! Testcase 2: Check count value (greater than or equal to 0) or (less than 10)
+ERROR!!! Testcase 3_3: Load low ,count < 4'b10
+Rst=0|Load=0|Count=10 ||| Correct=         98 | Error =         111
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+ERROR!!! Testcase 2: Check count value (greater than or equal to 0) or (less than 10)
+ERROR!!! Testcase 3_3: Load low ,count < 4'b10
+Rst=0|Load=0|Count=10 ||| Correct=         98 | Error =         114
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+ERROR!!! Testcase 2: Check count value (greater than or equal to 0) or (less than 10)
+ERROR!!! Testcase 3_1: Load high , din>10, count == 4'b0
+Rst=0|Load=1|Count=10 ||| Correct=         98 | Error =         117
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+ERROR!!! Testcase 2: Check count value (greater than or equal to 0) or (less than 10)
+ERROR!!! Testcase 3_1: Load high , din>10, count == 4'b0
+Rst=0|Load=1|Count=10 ||| Correct=         98 | Error =         120
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+ERROR!!! Testcase 2: Check count value (greater than or equal to 0) or (less than 10)
+ERROR!!! Testcase 3_1: Load high , din>10, count == 4'b0
+Rst=0|Load=1|Count=11 ||| Correct=         98 | Error =         123
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+ERROR!!! Testcase 2: Check count value (greater than or equal to 0) or (less than 10)
+ERROR!!! Testcase 3_3: Load low ,count < 4'b10
+Rst=0|Load=0|Count=11 ||| Correct=         98 | Error =         126
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+ERROR!!! Testcase 2: Check count value (greater than or equal to 0) or (less than 10)
+ERROR!!! Testcase 3_3: Load low ,count < 4'b10
+Rst=0|Load=0|Count=11 ||| Correct=         98 | Error =         129
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+ERROR!!! Testcase 2: Check count value (greater than or equal to 0) or (less than 10)
+ERROR!!! Testcase 3_1: Load high , din>10, count == 4'b0
+Rst=0|Load=1|Count=11 ||| Correct=         98 | Error =         132
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+ERROR!!! Testcase 2: Check count value (greater than or equal to 0) or (less than 10)
+ERROR!!! Testcase 3_1: Load high , din>10, count == 4'b0
+Rst=0|Load=1|Count=12 ||| Correct=         98 | Error =         135
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+ERROR!!! Testcase 2: Check count value (greater than or equal to 0) or (less than 10)
+ERROR!!! Testcase 3_1: Load high , din>10, count == 4'b0
+Rst=0|Load=1|Count=12 ||| Correct=         98 | Error =         138
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+ERROR!!! Testcase 2: Check count value (greater than or equal to 0) or (less than 10)
+ERROR!!! Testcase 3_1: Load high , din>10, count == 4'b0
+Rst=0|Load=1|Count=13 ||| Correct=         98 | Error =         141
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+ERROR!!! Testcase 2: Check count value (greater than or equal to 0) or (less than 10)
+ERROR!!! Testcase 3_3: Load low ,count < 4'b10
+Rst=0|Load=0|Count=13 ||| Correct=         98 | Error =         144
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+ERROR!!! Testcase 2: Check count value (greater than or equal to 0) or (less than 10)
+ERROR!!! Testcase 3_3: Load low ,count < 4'b10
+Rst=0|Load=0|Count=13 ||| Correct=         98 | Error =         147
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+ERROR!!! Testcase 2: Check count value (greater than or equal to 0) or (less than 10)
+ERROR!!! Testcase 3_1: Load high , din>10, count == 4'b0
+Rst=0|Load=1|Count=13 ||| Correct=         98 | Error =         150
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+ERROR!!! Testcase 2: Check count value (greater than or equal to 0) or (less than 10)
+ERROR!!! Testcase 3_1: Load high , din>10, count == 4'b0
+Rst=0|Load=1|Count=14 ||| Correct=         98 | Error =         153
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+ERROR!!! Testcase 2: Check count value (greater than or equal to 0) or (less than 10)
+ERROR!!! Testcase 3_1: Load high , din>10, count == 4'b0
+Rst=0|Load=1|Count=14 ||| Correct=         98 | Error =         156
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+ERROR!!! Testcase 2: Check count value (greater than or equal to 0) or (less than 10)
+ERROR!!! Testcase 3_1: Load high , din>10, count == 4'b0
+Rst=0|Load=1|Count=15 ||| Correct=         98 | Error =         159
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+ERROR!!! Testcase 2: Check count value (greater than or equal to 0) or (less than 10)
+ERROR!!! Testcase 3_3: Load low ,count < 4'b10
+Rst=0|Load=0|Count=15 ||| Correct=         98 | Error =         162
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+ERROR!!! Testcase 2: Check count value (greater than or equal to 0) or (less than 10)
+ERROR!!! Testcase 3_3: Load low ,count < 4'b10
+Rst=0|Load=0|Count=15 ||| Correct=         98 | Error =         165
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+ERROR!!! Testcase 2: Check count value (greater than or equal to 0) or (less than 10)
+ERROR!!! Testcase 3_2: Load high , din<10, count < 4'b10
+Rst=0|Load=1|Count=15 ||| Correct=         98 | Error =         168
+Rst=0|Load=1|Count= 0 ||| Correct=        101 | Error =         168
+Rst=0|Load=1|Count= 0 ||| Correct=        104 | Error =         168
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=1|Count= 1 ||| Correct=        106 | Error =         169
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=0|Count= 1 ||| Correct=        108 | Error =         170
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=0|Count= 2 ||| Correct=        110 | Error =         171
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=0|Count= 2 ||| Correct=        112 | Error =         172
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=0|Count= 3 ||| Correct=        114 | Error =         173
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=0|Count= 4 ||| Correct=        116 | Error =         174
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=0|Count= 5 ||| Correct=        118 | Error =         175
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=1|Count= 5 ||| Correct=        120 | Error =         176
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=1|Count= 2 ||| Correct=        122 | Error =         177
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=1|Count= 2 ||| Correct=        124 | Error =         178
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=1|Count= 3 ||| Correct=        126 | Error =         179
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=0|Count= 3 ||| Correct=        128 | Error =         180
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=0|Count= 4 ||| Correct=        130 | Error =         181
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=0|Count= 4 ||| Correct=        132 | Error =         182
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=0|Count= 5 ||| Correct=        134 | Error =         183
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=0|Count= 6 ||| Correct=        136 | Error =         184
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=0|Count= 7 ||| Correct=        138 | Error =         185
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=1|Count= 7 ||| Correct=        140 | Error =         186
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=1|Count= 4 ||| Correct=        142 | Error =         187
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=1|Count= 4 ||| Correct=        144 | Error =         188
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=1|Count= 5 ||| Correct=        146 | Error =         189
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=0|Count= 5 ||| Correct=        148 | Error =         190
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=0|Count= 6 ||| Correct=        150 | Error =         191
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=0|Count= 6 ||| Correct=        152 | Error =         192
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=0|Count= 7 ||| Correct=        154 | Error =         193
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=0|Count= 8 ||| Correct=        156 | Error =         194
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=0|Count= 9 ||| Correct=        158 | Error =         195
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=1|Count= 9 ||| Correct=        160 | Error =         196
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=1|Count= 6 ||| Correct=        162 | Error =         197
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=1|Count= 6 ||| Correct=        164 | Error =         198
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=1|Count= 7 ||| Correct=        166 | Error =         199
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=0|Count= 7 ||| Correct=        168 | Error =         200
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=0|Count= 8 ||| Correct=        170 | Error =         201
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=0|Count= 8 ||| Correct=        172 | Error =         202
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=0|Count= 9 ||| Correct=        174 | Error =         203
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+ERROR!!! Testcase 2: Check count value (greater than or equal to 0) or (less than 10)
+ERROR!!! Testcase 3_3: Load low ,count < 4'b10
+Rst=0|Load=0|Count=10 ||| Correct=        174 | Error =         206
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+ERROR!!! Testcase 2: Check count value (greater than or equal to 0) or (less than 10)
+ERROR!!! Testcase 3_2: Load high , din<10, count < 4'b10
+Rst=0|Load=1|Count=10 ||| Correct=        174 | Error =         209
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=1|Count= 8 ||| Correct=        176 | Error =         210
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=1|Count= 8 ||| Correct=        178 | Error =         211
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=1|Count= 9 ||| Correct=        180 | Error =         212
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=0|Count= 9 ||| Correct=        182 | Error =         213
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+ERROR!!! Testcase 2: Check count value (greater than or equal to 0) or (less than 10)
+ERROR!!! Testcase 3_3: Load low ,count < 4'b10
+Rst=0|Load=0|Count=10 ||| Correct=        182 | Error =         216
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+ERROR!!! Testcase 2: Check count value (greater than or equal to 0) or (less than 10)
+ERROR!!! Testcase 3_3: Load low ,count < 4'b10
+Rst=0|Load=0|Count=10 ||| Correct=        182 | Error =         219
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+ERROR!!! Testcase 2: Check count value (greater than or equal to 0) or (less than 10)
+ERROR!!! Testcase 3_1: Load high , din>10, count == 4'b0
+Rst=0|Load=1|Count=10 ||| Correct=        182 | Error =         222
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+ERROR!!! Testcase 2: Check count value (greater than or equal to 0) or (less than 10)
+ERROR!!! Testcase 3_1: Load high , din>10, count == 4'b0
+Rst=0|Load=1|Count=10 ||| Correct=        182 | Error =         225
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+ERROR!!! Testcase 2: Check count value (greater than or equal to 0) or (less than 10)
+ERROR!!! Testcase 3_1: Load high , din>10, count == 4'b0
+Rst=0|Load=1|Count=11 ||| Correct=        182 | Error =         228
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+ERROR!!! Testcase 2: Check count value (greater than or equal to 0) or (less than 10)
+ERROR!!! Testcase 3_3: Load low ,count < 4'b10
+Rst=0|Load=0|Count=11 ||| Correct=        182 | Error =         231
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+ERROR!!! Testcase 2: Check count value (greater than or equal to 0) or (less than 10)
+ERROR!!! Testcase 3_3: Load low ,count < 4'b10
+Rst=0|Load=0|Count=11 ||| Correct=        182 | Error =         234
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+ERROR!!! Testcase 2: Check count value (greater than or equal to 0) or (less than 10)
+ERROR!!! Testcase 3_1: Load high , din>10, count == 4'b0
+Rst=0|Load=1|Count=11 ||| Correct=        182 | Error =         237
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+ERROR!!! Testcase 2: Check count value (greater than or equal to 0) or (less than 10)
+ERROR!!! Testcase 3_1: Load high , din>10, count == 4'b0
+Rst=0|Load=1|Count=12 ||| Correct=        182 | Error =         240
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+ERROR!!! Testcase 2: Check count value (greater than or equal to 0) or (less than 10)
+ERROR!!! Testcase 3_1: Load high , din>10, count == 4'b0
+Rst=0|Load=1|Count=12 ||| Correct=        182 | Error =         243
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+ERROR!!! Testcase 2: Check count value (greater than or equal to 0) or (less than 10)
+ERROR!!! Testcase 3_1: Load high , din>10, count == 4'b0
+Rst=0|Load=1|Count=13 ||| Correct=        182 | Error =         246
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+ERROR!!! Testcase 2: Check count value (greater than or equal to 0) or (less than 10)
+ERROR!!! Testcase 3_3: Load low ,count < 4'b10
+Rst=0|Load=0|Count=13 ||| Correct=        182 | Error =         249
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+ERROR!!! Testcase 2: Check count value (greater than or equal to 0) or (less than 10)
+ERROR!!! Testcase 3_3: Load low ,count < 4'b10
+Rst=0|Load=0|Count=13 ||| Correct=        182 | Error =         252
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+ERROR!!! Testcase 2: Check count value (greater than or equal to 0) or (less than 10)
+ERROR!!! Testcase 3_1: Load high , din>10, count == 4'b0
+Rst=0|Load=1|Count=13 ||| Correct=        182 | Error =         255
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+ERROR!!! Testcase 2: Check count value (greater than or equal to 0) or (less than 10)
+ERROR!!! Testcase 3_1: Load high , din>10, count == 4'b0
+Rst=0|Load=1|Count=14 ||| Correct=        182 | Error =         258
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+ERROR!!! Testcase 2: Check count value (greater than or equal to 0) or (less than 10)
+ERROR!!! Testcase 3_1: Load high , din>10, count == 4'b0
+Rst=0|Load=1|Count=14 ||| Correct=        182 | Error =         261
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+ERROR!!! Testcase 2: Check count value (greater than or equal to 0) or (less than 10)
+ERROR!!! Testcase 3_1: Load high , din>10, count == 4'b0
+Rst=0|Load=1|Count=15 ||| Correct=        182 | Error =         264
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+ERROR!!! Testcase 2: Check count value (greater than or equal to 0) or (less than 10)
+ERROR!!! Testcase 3_3: Load low ,count < 4'b10
+Rst=0|Load=0|Count=15 ||| Correct=        182 | Error =         267
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+ERROR!!! Testcase 2: Check count value (greater than or equal to 0) or (less than 10)
+ERROR!!! Testcase 3_3: Load low ,count < 4'b10
+Rst=0|Load=0|Count=15 ||| Correct=        182 | Error =         270
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+ERROR!!! Testcase 2: Check count value (greater than or equal to 0) or (less than 10)
+ERROR!!! Testcase 3_2: Load high , din<10, count < 4'b10
+Rst=0|Load=1|Count=15 ||| Correct=        182 | Error =         273
+Rst=0|Load=1|Count= 0 ||| Correct=        185 | Error =         273
+Rst=0|Load=1|Count= 0 ||| Correct=        188 | Error =         273
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=1|Count= 1 ||| Correct=        190 | Error =         274
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=0|Count= 1 ||| Correct=        192 | Error =         275
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=0|Count= 2 ||| Correct=        194 | Error =         276
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=0|Count= 2 ||| Correct=        196 | Error =         277
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=0|Count= 3 ||| Correct=        198 | Error =         278
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=0|Count= 4 ||| Correct=        200 | Error =         279
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=0|Count= 5 ||| Correct=        202 | Error =         280
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=1|Count= 5 ||| Correct=        204 | Error =         281
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=1|Count= 2 ||| Correct=        206 | Error =         282
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=1|Count= 2 ||| Correct=        208 | Error =         283
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=1|Count= 3 ||| Correct=        210 | Error =         284
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=0|Count= 3 ||| Correct=        212 | Error =         285
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=0|Count= 4 ||| Correct=        214 | Error =         286
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=0|Count= 4 ||| Correct=        216 | Error =         287
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=0|Count= 5 ||| Correct=        218 | Error =         288
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=0|Count= 6 ||| Correct=        220 | Error =         289
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=0|Count= 7 ||| Correct=        222 | Error =         290
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=1|Count= 7 ||| Correct=        224 | Error =         291
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=1|Count= 4 ||| Correct=        226 | Error =         292
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=1|Count= 4 ||| Correct=        228 | Error =         293
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=1|Count= 5 ||| Correct=        230 | Error =         294
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=0|Count= 5 ||| Correct=        232 | Error =         295
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=0|Count= 6 ||| Correct=        234 | Error =         296
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=0|Count= 6 ||| Correct=        236 | Error =         297
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=0|Count= 7 ||| Correct=        238 | Error =         298
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=0|Count= 8 ||| Correct=        240 | Error =         299
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=0|Count= 9 ||| Correct=        242 | Error =         300
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=1|Count= 9 ||| Correct=        244 | Error =         301
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=1|Count= 6 ||| Correct=        246 | Error =         302
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=1|Count= 6 ||| Correct=        248 | Error =         303
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=1|Count= 7 ||| Correct=        250 | Error =         304
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=0|Count= 7 ||| Correct=        252 | Error =         305
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=0|Count= 8 ||| Correct=        254 | Error =         306
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=0|Count= 8 ||| Correct=        256 | Error =         307
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=0|Count= 9 ||| Correct=        258 | Error =         308
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+ERROR!!! Testcase 2: Check count value (greater than or equal to 0) or (less than 10)
+ERROR!!! Testcase 3_3: Load low ,count < 4'b10
+Rst=0|Load=0|Count=10 ||| Correct=        258 | Error =         311
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+ERROR!!! Testcase 2: Check count value (greater than or equal to 0) or (less than 10)
+ERROR!!! Testcase 3_2: Load high , din<10, count < 4'b10
+Rst=0|Load=1|Count=10 ||| Correct=        258 | Error =         314
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=1|Count= 8 ||| Correct=        260 | Error =         315
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=1|Count= 8 ||| Correct=        262 | Error =         316
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=1|Count= 9 ||| Correct=        264 | Error =         317
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=0|Count= 9 ||| Correct=        266 | Error =         318
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+ERROR!!! Testcase 2: Check count value (greater than or equal to 0) or (less than 10)
+ERROR!!! Testcase 3_3: Load low ,count < 4'b10
+Rst=0|Load=0|Count=10 ||| Correct=        266 | Error =         321
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+ERROR!!! Testcase 2: Check count value (greater than or equal to 0) or (less than 10)
+ERROR!!! Testcase 3_3: Load low ,count < 4'b10
+Rst=0|Load=0|Count=10 ||| Correct=        266 | Error =         324
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+ERROR!!! Testcase 2: Check count value (greater than or equal to 0) or (less than 10)
+ERROR!!! Testcase 3_1: Load high , din>10, count == 4'b0
+Rst=0|Load=1|Count=10 ||| Correct=        266 | Error =         327
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+ERROR!!! Testcase 2: Check count value (greater than or equal to 0) or (less than 10)
+ERROR!!! Testcase 3_1: Load high , din>10, count == 4'b0
+Rst=0|Load=1|Count=10 ||| Correct=        266 | Error =         330
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+ERROR!!! Testcase 2: Check count value (greater than or equal to 0) or (less than 10)
+ERROR!!! Testcase 3_1: Load high , din>10, count == 4'b0
+Rst=0|Load=1|Count=11 ||| Correct=        266 | Error =         333
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+ERROR!!! Testcase 2: Check count value (greater than or equal to 0) or (less than 10)
+ERROR!!! Testcase 3_3: Load low ,count < 4'b10
+Rst=0|Load=0|Count=11 ||| Correct=        266 | Error =         336
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+ERROR!!! Testcase 2: Check count value (greater than or equal to 0) or (less than 10)
+ERROR!!! Testcase 3_3: Load low ,count < 4'b10
+Rst=0|Load=0|Count=11 ||| Correct=        266 | Error =         339
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+ERROR!!! Testcase 2: Check count value (greater than or equal to 0) or (less than 10)
+ERROR!!! Testcase 3_1: Load high , din>10, count == 4'b0
+Rst=0|Load=1|Count=11 ||| Correct=        266 | Error =         342
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+ERROR!!! Testcase 2: Check count value (greater than or equal to 0) or (less than 10)
+ERROR!!! Testcase 3_1: Load high , din>10, count == 4'b0
+Rst=0|Load=1|Count=12 ||| Correct=        266 | Error =         345
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+ERROR!!! Testcase 2: Check count value (greater than or equal to 0) or (less than 10)
+ERROR!!! Testcase 3_1: Load high , din>10, count == 4'b0
+Rst=0|Load=1|Count=12 ||| Correct=        266 | Error =         348
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+ERROR!!! Testcase 2: Check count value (greater than or equal to 0) or (less than 10)
+ERROR!!! Testcase 3_1: Load high , din>10, count == 4'b0
+Rst=0|Load=1|Count=13 ||| Correct=        266 | Error =         351
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+ERROR!!! Testcase 2: Check count value (greater than or equal to 0) or (less than 10)
+ERROR!!! Testcase 3_3: Load low ,count < 4'b10
+Rst=0|Load=0|Count=13 ||| Correct=        266 | Error =         354
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+ERROR!!! Testcase 2: Check count value (greater than or equal to 0) or (less than 10)
+ERROR!!! Testcase 3_3: Load low ,count < 4'b10
+Rst=0|Load=0|Count=13 ||| Correct=        266 | Error =         357
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+ERROR!!! Testcase 2: Check count value (greater than or equal to 0) or (less than 10)
+ERROR!!! Testcase 3_1: Load high , din>10, count == 4'b0
+Rst=0|Load=1|Count=13 ||| Correct=        266 | Error =         360
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+ERROR!!! Testcase 2: Check count value (greater than or equal to 0) or (less than 10)
+ERROR!!! Testcase 3_1: Load high , din>10, count == 4'b0
+Rst=0|Load=1|Count=14 ||| Correct=        266 | Error =         363
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+ERROR!!! Testcase 2: Check count value (greater than or equal to 0) or (less than 10)
+ERROR!!! Testcase 3_1: Load high , din>10, count == 4'b0
+Rst=0|Load=1|Count=14 ||| Correct=        266 | Error =         366
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+ERROR!!! Testcase 2: Check count value (greater than or equal to 0) or (less than 10)
+ERROR!!! Testcase 3_1: Load high , din>10, count == 4'b0
+Rst=0|Load=1|Count=15 ||| Correct=        266 | Error =         369
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+ERROR!!! Testcase 2: Check count value (greater than or equal to 0) or (less than 10)
+ERROR!!! Testcase 3_3: Load low ,count < 4'b10
+Rst=0|Load=0|Count=15 ||| Correct=        266 | Error =         372
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+ERROR!!! Testcase 2: Check count value (greater than or equal to 0) or (less than 10)
+ERROR!!! Testcase 3_3: Load low ,count < 4'b10
+Rst=0|Load=0|Count=15 ||| Correct=        266 | Error =         375
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+ERROR!!! Testcase 2: Check count value (greater than or equal to 0) or (less than 10)
+ERROR!!! Testcase 3_2: Load high , din<10, count < 4'b10
+Rst=0|Load=1|Count=15 ||| Correct=        266 | Error =         378
+Rst=0|Load=1|Count= 0 ||| Correct=        269 | Error =         378
+Rst=0|Load=1|Count= 0 ||| Correct=        272 | Error =         378
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=1|Count= 1 ||| Correct=        274 | Error =         379
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=0|Count= 1 ||| Correct=        276 | Error =         380
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=0|Count= 2 ||| Correct=        278 | Error =         381
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=0|Count= 2 ||| Correct=        280 | Error =         382
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=0|Count= 3 ||| Correct=        282 | Error =         383
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=0|Count= 4 ||| Correct=        284 | Error =         384
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=0|Count= 5 ||| Correct=        286 | Error =         385
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=1|Count= 5 ||| Correct=        288 | Error =         386
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=1|Count= 2 ||| Correct=        290 | Error =         387
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=1|Count= 2 ||| Correct=        292 | Error =         388
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=1|Count= 3 ||| Correct=        294 | Error =         389
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=0|Count= 3 ||| Correct=        296 | Error =         390
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=0|Count= 4 ||| Correct=        298 | Error =         391
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=0|Count= 4 ||| Correct=        300 | Error =         392
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=0|Count= 5 ||| Correct=        302 | Error =         393
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=0|Count= 6 ||| Correct=        304 | Error =         394
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=0|Count= 7 ||| Correct=        306 | Error =         395
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=1|Count= 7 ||| Correct=        308 | Error =         396
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=1|Count= 4 ||| Correct=        310 | Error =         397
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=1|Count= 4 ||| Correct=        312 | Error =         398
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=1|Count= 5 ||| Correct=        314 | Error =         399
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=0|Count= 5 ||| Correct=        316 | Error =         400
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=0|Count= 6 ||| Correct=        318 | Error =         401
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=0|Count= 6 ||| Correct=        320 | Error =         402
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=0|Count= 7 ||| Correct=        322 | Error =         403
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=0|Count= 8 ||| Correct=        324 | Error =         404
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=0|Count= 9 ||| Correct=        326 | Error =         405
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=1|Count= 9 ||| Correct=        328 | Error =         406
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=1|Count= 6 ||| Correct=        330 | Error =         407
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=1|Count= 6 ||| Correct=        332 | Error =         408
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=1|Count= 7 ||| Correct=        334 | Error =         409
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=0|Count= 7 ||| Correct=        336 | Error =         410
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=0|Count= 8 ||| Correct=        338 | Error =         411
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=0|Count= 8 ||| Correct=        340 | Error =         412
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=0|Count= 9 ||| Correct=        342 | Error =         413
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+ERROR!!! Testcase 2: Check count value (greater than or equal to 0) or (less than 10)
+ERROR!!! Testcase 3_3: Load low ,count < 4'b10
+Rst=0|Load=0|Count=10 ||| Correct=        342 | Error =         416
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+ERROR!!! Testcase 2: Check count value (greater than or equal to 0) or (less than 10)
+ERROR!!! Testcase 3_2: Load high , din<10, count < 4'b10
+Rst=0|Load=1|Count=10 ||| Correct=        342 | Error =         419
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=1|Count= 8 ||| Correct=        344 | Error =         420
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=1|Count= 8 ||| Correct=        346 | Error =         421
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=1|Count= 9 ||| Correct=        348 | Error =         422
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=0|Count= 9 ||| Correct=        350 | Error =         423
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+ERROR!!! Testcase 2: Check count value (greater than or equal to 0) or (less than 10)
+ERROR!!! Testcase 3_3: Load low ,count < 4'b10
+Rst=0|Load=0|Count=10 ||| Correct=        350 | Error =         426
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+ERROR!!! Testcase 2: Check count value (greater than or equal to 0) or (less than 10)
+ERROR!!! Testcase 3_3: Load low ,count < 4'b10
+Rst=0|Load=0|Count=10 ||| Correct=        350 | Error =         429
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+ERROR!!! Testcase 2: Check count value (greater than or equal to 0) or (less than 10)
+ERROR!!! Testcase 3_1: Load high , din>10, count == 4'b0
+Rst=0|Load=1|Count=10 ||| Correct=        350 | Error =         432
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+ERROR!!! Testcase 2: Check count value (greater than or equal to 0) or (less than 10)
+ERROR!!! Testcase 3_1: Load high , din>10, count == 4'b0
+Rst=0|Load=1|Count=10 ||| Correct=        350 | Error =         435
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+ERROR!!! Testcase 2: Check count value (greater than or equal to 0) or (less than 10)
+ERROR!!! Testcase 3_1: Load high , din>10, count == 4'b0
+Rst=0|Load=1|Count=11 ||| Correct=        350 | Error =         438
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+ERROR!!! Testcase 2: Check count value (greater than or equal to 0) or (less than 10)
+ERROR!!! Testcase 3_3: Load low ,count < 4'b10
+Rst=0|Load=0|Count=11 ||| Correct=        350 | Error =         441
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+ERROR!!! Testcase 2: Check count value (greater than or equal to 0) or (less than 10)
+ERROR!!! Testcase 3_3: Load low ,count < 4'b10
+Rst=0|Load=0|Count=11 ||| Correct=        350 | Error =         444
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+ERROR!!! Testcase 2: Check count value (greater than or equal to 0) or (less than 10)
+ERROR!!! Testcase 3_1: Load high , din>10, count == 4'b0
+Rst=0|Load=1|Count=11 ||| Correct=        350 | Error =         447
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+ERROR!!! Testcase 2: Check count value (greater than or equal to 0) or (less than 10)
+ERROR!!! Testcase 3_1: Load high , din>10, count == 4'b0
+Rst=0|Load=1|Count=12 ||| Correct=        350 | Error =         450
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+ERROR!!! Testcase 2: Check count value (greater than or equal to 0) or (less than 10)
+ERROR!!! Testcase 3_1: Load high , din>10, count == 4'b0
+Rst=0|Load=1|Count=12 ||| Correct=        350 | Error =         453
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+ERROR!!! Testcase 2: Check count value (greater than or equal to 0) or (less than 10)
+ERROR!!! Testcase 3_1: Load high , din>10, count == 4'b0
+Rst=0|Load=1|Count=13 ||| Correct=        350 | Error =         456
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+ERROR!!! Testcase 2: Check count value (greater than or equal to 0) or (less than 10)
+ERROR!!! Testcase 3_3: Load low ,count < 4'b10
+Rst=0|Load=0|Count=13 ||| Correct=        350 | Error =         459
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+ERROR!!! Testcase 2: Check count value (greater than or equal to 0) or (less than 10)
+ERROR!!! Testcase 3_3: Load low ,count < 4'b10
+Rst=0|Load=0|Count=13 ||| Correct=        350 | Error =         462
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+ERROR!!! Testcase 2: Check count value (greater than or equal to 0) or (less than 10)
+ERROR!!! Testcase 3_1: Load high , din>10, count == 4'b0
+Rst=0|Load=1|Count=13 ||| Correct=        350 | Error =         465
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+ERROR!!! Testcase 2: Check count value (greater than or equal to 0) or (less than 10)
+ERROR!!! Testcase 3_1: Load high , din>10, count == 4'b0
+Rst=0|Load=1|Count=14 ||| Correct=        350 | Error =         468
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+ERROR!!! Testcase 2: Check count value (greater than or equal to 0) or (less than 10)
+ERROR!!! Testcase 3_1: Load high , din>10, count == 4'b0
+Rst=0|Load=1|Count=14 ||| Correct=        350 | Error =         471
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+ERROR!!! Testcase 2: Check count value (greater than or equal to 0) or (less than 10)
+ERROR!!! Testcase 3_1: Load high , din>10, count == 4'b0
+Rst=0|Load=1|Count=15 ||| Correct=        350 | Error =         474
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+ERROR!!! Testcase 2: Check count value (greater than or equal to 0) or (less than 10)
+ERROR!!! Testcase 3_3: Load low ,count < 4'b10
+Rst=0|Load=0|Count=15 ||| Correct=        350 | Error =         477
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+ERROR!!! Testcase 2: Check count value (greater than or equal to 0) or (less than 10)
+ERROR!!! Testcase 3_3: Load low ,count < 4'b10
+Rst=0|Load=0|Count=15 ||| Correct=        350 | Error =         480
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+ERROR!!! Testcase 2: Check count value (greater than or equal to 0) or (less than 10)
+ERROR!!! Testcase 3_2: Load high , din<10, count < 4'b10
+Rst=0|Load=1|Count=15 ||| Correct=        350 | Error =         483
+Rst=0|Load=1|Count= 0 ||| Correct=        353 | Error =         483
+Rst=0|Load=1|Count= 0 ||| Correct=        356 | Error =         483
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=1|Count= 1 ||| Correct=        358 | Error =         484
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=0|Count= 1 ||| Correct=        360 | Error =         485
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=0|Count= 2 ||| Correct=        362 | Error =         486
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=0|Count= 2 ||| Correct=        364 | Error =         487
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=0|Count= 3 ||| Correct=        366 | Error =         488
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=0|Count= 4 ||| Correct=        368 | Error =         489
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=0|Count= 5 ||| Correct=        370 | Error =         490
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=1|Count= 5 ||| Correct=        372 | Error =         491
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=1|Count= 2 ||| Correct=        374 | Error =         492
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=1|Count= 2 ||| Correct=        376 | Error =         493
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=1|Count= 3 ||| Correct=        378 | Error =         494
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=0|Count= 3 ||| Correct=        380 | Error =         495
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=0|Count= 4 ||| Correct=        382 | Error =         496
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=0|Count= 4 ||| Correct=        384 | Error =         497
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=0|Count= 5 ||| Correct=        386 | Error =         498
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=0|Count= 6 ||| Correct=        388 | Error =         499
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=0|Count= 7 ||| Correct=        390 | Error =         500
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=1|Count= 7 ||| Correct=        392 | Error =         501
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=1|Count= 4 ||| Correct=        394 | Error =         502
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=1|Count= 4 ||| Correct=        396 | Error =         503
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=1|Count= 5 ||| Correct=        398 | Error =         504
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=0|Count= 5 ||| Correct=        400 | Error =         505
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=0|Count= 6 ||| Correct=        402 | Error =         506
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=0|Count= 6 ||| Correct=        404 | Error =         507
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=0|Count= 7 ||| Correct=        406 | Error =         508
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=0|Count= 8 ||| Correct=        408 | Error =         509
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=0|Count= 9 ||| Correct=        410 | Error =         510
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=1|Count= 9 ||| Correct=        412 | Error =         511
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=1|Count= 6 ||| Correct=        414 | Error =         512
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=1|Count= 6 ||| Correct=        416 | Error =         513
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=1|Count= 7 ||| Correct=        418 | Error =         514
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=0|Count= 7 ||| Correct=        420 | Error =         515
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=0|Count= 8 ||| Correct=        422 | Error =         516
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=0|Count= 8 ||| Correct=        424 | Error =         517
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=0|Count= 9 ||| Correct=        426 | Error =         518
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+ERROR!!! Testcase 2: Check count value (greater than or equal to 0) or (less than 10)
+ERROR!!! Testcase 3_3: Load low ,count < 4'b10
+Rst=0|Load=0|Count=10 ||| Correct=        426 | Error =         521
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+ERROR!!! Testcase 2: Check count value (greater than or equal to 0) or (less than 10)
+ERROR!!! Testcase 3_2: Load high , din<10, count < 4'b10
+Rst=0|Load=1|Count=10 ||| Correct=        426 | Error =         524
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=1|Count= 8 ||| Correct=        428 | Error =         525
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=1|Count= 8 ||| Correct=        430 | Error =         526
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=1|Count= 9 ||| Correct=        432 | Error =         527
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=0|Count= 9 ||| Correct=        434 | Error =         528
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+ERROR!!! Testcase 2: Check count value (greater than or equal to 0) or (less than 10)
+ERROR!!! Testcase 3_3: Load low ,count < 4'b10
+Rst=0|Load=0|Count=10 ||| Correct=        434 | Error =         531
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+ERROR!!! Testcase 2: Check count value (greater than or equal to 0) or (less than 10)
+ERROR!!! Testcase 3_3: Load low ,count < 4'b10
+Rst=0|Load=0|Count=10 ||| Correct=        434 | Error =         534
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+ERROR!!! Testcase 2: Check count value (greater than or equal to 0) or (less than 10)
+ERROR!!! Testcase 3_1: Load high , din>10, count == 4'b0
+Rst=0|Load=1|Count=10 ||| Correct=        434 | Error =         537
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+ERROR!!! Testcase 2: Check count value (greater than or equal to 0) or (less than 10)
+ERROR!!! Testcase 3_1: Load high , din>10, count == 4'b0
+Rst=0|Load=1|Count=10 ||| Correct=        434 | Error =         540
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+ERROR!!! Testcase 2: Check count value (greater than or equal to 0) or (less than 10)
+ERROR!!! Testcase 3_1: Load high , din>10, count == 4'b0
+Rst=0|Load=1|Count=11 ||| Correct=        434 | Error =         543
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+ERROR!!! Testcase 2: Check count value (greater than or equal to 0) or (less than 10)
+ERROR!!! Testcase 3_3: Load low ,count < 4'b10
+Rst=0|Load=0|Count=11 ||| Correct=        434 | Error =         546
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+ERROR!!! Testcase 2: Check count value (greater than or equal to 0) or (less than 10)
+ERROR!!! Testcase 3_3: Load low ,count < 4'b10
+Rst=0|Load=0|Count=11 ||| Correct=        434 | Error =         549
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+ERROR!!! Testcase 2: Check count value (greater than or equal to 0) or (less than 10)
+ERROR!!! Testcase 3_1: Load high , din>10, count == 4'b0
+Rst=0|Load=1|Count=11 ||| Correct=        434 | Error =         552
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+ERROR!!! Testcase 2: Check count value (greater than or equal to 0) or (less than 10)
+ERROR!!! Testcase 3_1: Load high , din>10, count == 4'b0
+Rst=0|Load=1|Count=12 ||| Correct=        434 | Error =         555
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+ERROR!!! Testcase 2: Check count value (greater than or equal to 0) or (less than 10)
+ERROR!!! Testcase 3_1: Load high , din>10, count == 4'b0
+Rst=0|Load=1|Count=12 ||| Correct=        434 | Error =         558
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+ERROR!!! Testcase 2: Check count value (greater than or equal to 0) or (less than 10)
+ERROR!!! Testcase 3_1: Load high , din>10, count == 4'b0
+Rst=0|Load=1|Count=13 ||| Correct=        434 | Error =         561
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+ERROR!!! Testcase 2: Check count value (greater than or equal to 0) or (less than 10)
+ERROR!!! Testcase 3_3: Load low ,count < 4'b10
+Rst=0|Load=0|Count=13 ||| Correct=        434 | Error =         564
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+ERROR!!! Testcase 2: Check count value (greater than or equal to 0) or (less than 10)
+ERROR!!! Testcase 3_3: Load low ,count < 4'b10
+Rst=0|Load=0|Count=13 ||| Correct=        434 | Error =         567
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+ERROR!!! Testcase 2: Check count value (greater than or equal to 0) or (less than 10)
+ERROR!!! Testcase 3_1: Load high , din>10, count == 4'b0
+Rst=0|Load=1|Count=13 ||| Correct=        434 | Error =         570
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+ERROR!!! Testcase 2: Check count value (greater than or equal to 0) or (less than 10)
+ERROR!!! Testcase 3_1: Load high , din>10, count == 4'b0
+Rst=0|Load=1|Count=14 ||| Correct=        434 | Error =         573
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+ERROR!!! Testcase 2: Check count value (greater than or equal to 0) or (less than 10)
+ERROR!!! Testcase 3_1: Load high , din>10, count == 4'b0
+Rst=0|Load=1|Count=14 ||| Correct=        434 | Error =         576
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+ERROR!!! Testcase 2: Check count value (greater than or equal to 0) or (less than 10)
+ERROR!!! Testcase 3_1: Load high , din>10, count == 4'b0
+Rst=0|Load=1|Count=15 ||| Correct=        434 | Error =         579
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+ERROR!!! Testcase 2: Check count value (greater than or equal to 0) or (less than 10)
+ERROR!!! Testcase 3_3: Load low ,count < 4'b10
+Rst=0|Load=0|Count=15 ||| Correct=        434 | Error =         582
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+ERROR!!! Testcase 2: Check count value (greater than or equal to 0) or (less than 10)
+ERROR!!! Testcase 3_3: Load low ,count < 4'b10
+Rst=0|Load=0|Count=15 ||| Correct=        434 | Error =         585
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+ERROR!!! Testcase 2: Check count value (greater than or equal to 0) or (less than 10)
+ERROR!!! Testcase 3_2: Load high , din<10, count < 4'b10
+Rst=0|Load=1|Count=15 ||| Correct=        434 | Error =         588
+Rst=0|Load=1|Count= 0 ||| Correct=        437 | Error =         588
+Rst=0|Load=1|Count= 0 ||| Correct=        440 | Error =         588
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=1|Count= 1 ||| Correct=        442 | Error =         589
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=0|Count= 1 ||| Correct=        444 | Error =         590
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=0|Count= 2 ||| Correct=        446 | Error =         591
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=0|Count= 2 ||| Correct=        448 | Error =         592
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=0|Count= 3 ||| Correct=        450 | Error =         593
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=0|Count= 4 ||| Correct=        452 | Error =         594
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=0|Count= 5 ||| Correct=        454 | Error =         595
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=1|Count= 5 ||| Correct=        456 | Error =         596
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=1|Count= 2 ||| Correct=        458 | Error =         597
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=1|Count= 2 ||| Correct=        460 | Error =         598
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=1|Count= 3 ||| Correct=        462 | Error =         599
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=0|Count= 3 ||| Correct=        464 | Error =         600
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=0|Count= 4 ||| Correct=        466 | Error =         601
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=0|Count= 4 ||| Correct=        468 | Error =         602
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=0|Count= 5 ||| Correct=        470 | Error =         603
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=0|Count= 6 ||| Correct=        472 | Error =         604
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=0|Count= 7 ||| Correct=        474 | Error =         605
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=1|Count= 7 ||| Correct=        476 | Error =         606
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=1|Count= 4 ||| Correct=        478 | Error =         607
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=1|Count= 4 ||| Correct=        480 | Error =         608
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=1|Count= 5 ||| Correct=        482 | Error =         609
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=0|Count= 5 ||| Correct=        484 | Error =         610
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=0|Count= 6 ||| Correct=        486 | Error =         611
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=0|Count= 6 ||| Correct=        488 | Error =         612
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=0|Count= 7 ||| Correct=        490 | Error =         613
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=0|Count= 8 ||| Correct=        492 | Error =         614
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=0|Count= 9 ||| Correct=        494 | Error =         615
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=1|Count= 9 ||| Correct=        496 | Error =         616
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=1|Count= 6 ||| Correct=        498 | Error =         617
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=1|Count= 6 ||| Correct=        500 | Error =         618
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=1|Count= 7 ||| Correct=        502 | Error =         619
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=0|Count= 7 ||| Correct=        504 | Error =         620
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=0|Count= 8 ||| Correct=        506 | Error =         621
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=0|Count= 8 ||| Correct=        508 | Error =         622
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=0|Count= 9 ||| Correct=        510 | Error =         623
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+ERROR!!! Testcase 2: Check count value (greater than or equal to 0) or (less than 10)
+ERROR!!! Testcase 3_3: Load low ,count < 4'b10
+Rst=0|Load=0|Count=10 ||| Correct=        510 | Error =         626
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+ERROR!!! Testcase 2: Check count value (greater than or equal to 0) or (less than 10)
+ERROR!!! Testcase 3_2: Load high , din<10, count < 4'b10
+Rst=0|Load=1|Count=10 ||| Correct=        510 | Error =         629
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=1|Count= 8 ||| Correct=        512 | Error =         630
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=1|Count= 8 ||| Correct=        514 | Error =         631
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=1|Count= 9 ||| Correct=        516 | Error =         632
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=0|Count= 9 ||| Correct=        518 | Error =         633
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+ERROR!!! Testcase 2: Check count value (greater than or equal to 0) or (less than 10)
+ERROR!!! Testcase 3_3: Load low ,count < 4'b10
+Rst=0|Load=0|Count=10 ||| Correct=        518 | Error =         636
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+ERROR!!! Testcase 2: Check count value (greater than or equal to 0) or (less than 10)
+ERROR!!! Testcase 3_3: Load low ,count < 4'b10
+Rst=0|Load=0|Count=10 ||| Correct=        518 | Error =         639
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+ERROR!!! Testcase 2: Check count value (greater than or equal to 0) or (less than 10)
+ERROR!!! Testcase 3_1: Load high , din>10, count == 4'b0
+Rst=0|Load=1|Count=10 ||| Correct=        518 | Error =         642
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+ERROR!!! Testcase 2: Check count value (greater than or equal to 0) or (less than 10)
+ERROR!!! Testcase 3_1: Load high , din>10, count == 4'b0
+Rst=0|Load=1|Count=10 ||| Correct=        518 | Error =         645
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+ERROR!!! Testcase 2: Check count value (greater than or equal to 0) or (less than 10)
+ERROR!!! Testcase 3_1: Load high , din>10, count == 4'b0
+Rst=0|Load=1|Count=11 ||| Correct=        518 | Error =         648
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+ERROR!!! Testcase 2: Check count value (greater than or equal to 0) or (less than 10)
+ERROR!!! Testcase 3_3: Load low ,count < 4'b10
+Rst=0|Load=0|Count=11 ||| Correct=        518 | Error =         651
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+ERROR!!! Testcase 2: Check count value (greater than or equal to 0) or (less than 10)
+ERROR!!! Testcase 3_3: Load low ,count < 4'b10
+Rst=0|Load=0|Count=11 ||| Correct=        518 | Error =         654
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+ERROR!!! Testcase 2: Check count value (greater than or equal to 0) or (less than 10)
+ERROR!!! Testcase 3_1: Load high , din>10, count == 4'b0
+Rst=0|Load=1|Count=11 ||| Correct=        518 | Error =         657
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+ERROR!!! Testcase 2: Check count value (greater than or equal to 0) or (less than 10)
+ERROR!!! Testcase 3_1: Load high , din>10, count == 4'b0
+Rst=0|Load=1|Count=12 ||| Correct=        518 | Error =         660
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+ERROR!!! Testcase 2: Check count value (greater than or equal to 0) or (less than 10)
+ERROR!!! Testcase 3_1: Load high , din>10, count == 4'b0
+Rst=0|Load=1|Count=12 ||| Correct=        518 | Error =         663
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+ERROR!!! Testcase 2: Check count value (greater than or equal to 0) or (less than 10)
+ERROR!!! Testcase 3_1: Load high , din>10, count == 4'b0
+Rst=0|Load=1|Count=13 ||| Correct=        518 | Error =         666
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+ERROR!!! Testcase 2: Check count value (greater than or equal to 0) or (less than 10)
+ERROR!!! Testcase 3_3: Load low ,count < 4'b10
+Rst=0|Load=0|Count=13 ||| Correct=        518 | Error =         669
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+ERROR!!! Testcase 2: Check count value (greater than or equal to 0) or (less than 10)
+ERROR!!! Testcase 3_3: Load low ,count < 4'b10
+Rst=0|Load=0|Count=13 ||| Correct=        518 | Error =         672
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+ERROR!!! Testcase 2: Check count value (greater than or equal to 0) or (less than 10)
+ERROR!!! Testcase 3_1: Load high , din>10, count == 4'b0
+Rst=0|Load=1|Count=13 ||| Correct=        518 | Error =         675
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+ERROR!!! Testcase 2: Check count value (greater than or equal to 0) or (less than 10)
+ERROR!!! Testcase 3_1: Load high , din>10, count == 4'b0
+Rst=0|Load=1|Count=14 ||| Correct=        518 | Error =         678
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+ERROR!!! Testcase 2: Check count value (greater than or equal to 0) or (less than 10)
+ERROR!!! Testcase 3_1: Load high , din>10, count == 4'b0
+Rst=0|Load=1|Count=14 ||| Correct=        518 | Error =         681
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+ERROR!!! Testcase 2: Check count value (greater than or equal to 0) or (less than 10)
+ERROR!!! Testcase 3_1: Load high , din>10, count == 4'b0
+Rst=0|Load=1|Count=15 ||| Correct=        518 | Error =         684
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+ERROR!!! Testcase 2: Check count value (greater than or equal to 0) or (less than 10)
+ERROR!!! Testcase 3_3: Load low ,count < 4'b10
+Rst=0|Load=0|Count=15 ||| Correct=        518 | Error =         687
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+ERROR!!! Testcase 2: Check count value (greater than or equal to 0) or (less than 10)
+ERROR!!! Testcase 3_3: Load low ,count < 4'b10
+Rst=0|Load=0|Count=15 ||| Correct=        518 | Error =         690
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+ERROR!!! Testcase 2: Check count value (greater than or equal to 0) or (less than 10)
+ERROR!!! Testcase 3_2: Load high , din<10, count < 4'b10
+Rst=0|Load=1|Count=15 ||| Correct=        518 | Error =         693
+Rst=0|Load=1|Count= 0 ||| Correct=        521 | Error =         693
+Rst=0|Load=1|Count= 0 ||| Correct=        524 | Error =         693
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=1|Count= 1 ||| Correct=        526 | Error =         694
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=0|Count= 1 ||| Correct=        528 | Error =         695
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=0|Count= 2 ||| Correct=        530 | Error =         696
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=0|Count= 2 ||| Correct=        532 | Error =         697
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=0|Count= 3 ||| Correct=        534 | Error =         698
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=0|Count= 4 ||| Correct=        536 | Error =         699
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=0|Count= 5 ||| Correct=        538 | Error =         700
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=1|Count= 5 ||| Correct=        540 | Error =         701
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=1|Count= 2 ||| Correct=        542 | Error =         702
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=1|Count= 2 ||| Correct=        544 | Error =         703
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=1|Count= 3 ||| Correct=        546 | Error =         704
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=0|Count= 3 ||| Correct=        548 | Error =         705
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=0|Count= 4 ||| Correct=        550 | Error =         706
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=0|Count= 4 ||| Correct=        552 | Error =         707
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=0|Count= 5 ||| Correct=        554 | Error =         708
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=0|Count= 6 ||| Correct=        556 | Error =         709
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=0|Count= 7 ||| Correct=        558 | Error =         710
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=1|Count= 7 ||| Correct=        560 | Error =         711
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=1|Count= 4 ||| Correct=        562 | Error =         712
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=1|Count= 4 ||| Correct=        564 | Error =         713
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=1|Count= 5 ||| Correct=        566 | Error =         714
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=0|Count= 5 ||| Correct=        568 | Error =         715
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=0|Count= 6 ||| Correct=        570 | Error =         716
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=0|Count= 6 ||| Correct=        572 | Error =         717
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=0|Count= 7 ||| Correct=        574 | Error =         718
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=0|Count= 8 ||| Correct=        576 | Error =         719
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=0|Count= 9 ||| Correct=        578 | Error =         720
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=1|Count= 9 ||| Correct=        580 | Error =         721
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=1|Count= 6 ||| Correct=        582 | Error =         722
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=1|Count= 6 ||| Correct=        584 | Error =         723
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=1|Count= 7 ||| Correct=        586 | Error =         724
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=0|Count= 7 ||| Correct=        588 | Error =         725
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=0|Count= 8 ||| Correct=        590 | Error =         726
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=0|Count= 8 ||| Correct=        592 | Error =         727
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=0|Count= 9 ||| Correct=        594 | Error =         728
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+ERROR!!! Testcase 2: Check count value (greater than or equal to 0) or (less than 10)
+ERROR!!! Testcase 3_3: Load low ,count < 4'b10
+Rst=0|Load=0|Count=10 ||| Correct=        594 | Error =         731
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+ERROR!!! Testcase 2: Check count value (greater than or equal to 0) or (less than 10)
+ERROR!!! Testcase 3_2: Load high , din<10, count < 4'b10
+Rst=0|Load=1|Count=10 ||| Correct=        594 | Error =         734
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=1|Count= 8 ||| Correct=        596 | Error =         735
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=1|Count= 8 ||| Correct=        598 | Error =         736
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=1|Count= 9 ||| Correct=        600 | Error =         737
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=0|Count= 9 ||| Correct=        602 | Error =         738
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+ERROR!!! Testcase 2: Check count value (greater than or equal to 0) or (less than 10)
+ERROR!!! Testcase 3_3: Load low ,count < 4'b10
+Rst=0|Load=0|Count=10 ||| Correct=        602 | Error =         741
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+ERROR!!! Testcase 2: Check count value (greater than or equal to 0) or (less than 10)
+ERROR!!! Testcase 3_3: Load low ,count < 4'b10
+Rst=0|Load=0|Count=10 ||| Correct=        602 | Error =         744
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+ERROR!!! Testcase 2: Check count value (greater than or equal to 0) or (less than 10)
+ERROR!!! Testcase 3_1: Load high , din>10, count == 4'b0
+Rst=0|Load=1|Count=10 ||| Correct=        602 | Error =         747
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+ERROR!!! Testcase 2: Check count value (greater than or equal to 0) or (less than 10)
+ERROR!!! Testcase 3_1: Load high , din>10, count == 4'b0
+Rst=0|Load=1|Count=10 ||| Correct=        602 | Error =         750
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+ERROR!!! Testcase 2: Check count value (greater than or equal to 0) or (less than 10)
+ERROR!!! Testcase 3_1: Load high , din>10, count == 4'b0
+Rst=0|Load=1|Count=11 ||| Correct=        602 | Error =         753
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+ERROR!!! Testcase 2: Check count value (greater than or equal to 0) or (less than 10)
+ERROR!!! Testcase 3_3: Load low ,count < 4'b10
+Rst=0|Load=0|Count=11 ||| Correct=        602 | Error =         756
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+ERROR!!! Testcase 2: Check count value (greater than or equal to 0) or (less than 10)
+ERROR!!! Testcase 3_3: Load low ,count < 4'b10
+Rst=0|Load=0|Count=11 ||| Correct=        602 | Error =         759
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+ERROR!!! Testcase 2: Check count value (greater than or equal to 0) or (less than 10)
+ERROR!!! Testcase 3_1: Load high , din>10, count == 4'b0
+Rst=0|Load=1|Count=11 ||| Correct=        602 | Error =         762
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+ERROR!!! Testcase 2: Check count value (greater than or equal to 0) or (less than 10)
+ERROR!!! Testcase 3_1: Load high , din>10, count == 4'b0
+Rst=0|Load=1|Count=12 ||| Correct=        602 | Error =         765
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+ERROR!!! Testcase 2: Check count value (greater than or equal to 0) or (less than 10)
+ERROR!!! Testcase 3_1: Load high , din>10, count == 4'b0
+Rst=0|Load=1|Count=12 ||| Correct=        602 | Error =         768
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+ERROR!!! Testcase 2: Check count value (greater than or equal to 0) or (less than 10)
+ERROR!!! Testcase 3_1: Load high , din>10, count == 4'b0
+Rst=0|Load=1|Count=13 ||| Correct=        602 | Error =         771
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+ERROR!!! Testcase 2: Check count value (greater than or equal to 0) or (less than 10)
+ERROR!!! Testcase 3_3: Load low ,count < 4'b10
+Rst=0|Load=0|Count=13 ||| Correct=        602 | Error =         774
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+ERROR!!! Testcase 2: Check count value (greater than or equal to 0) or (less than 10)
+ERROR!!! Testcase 3_3: Load low ,count < 4'b10
+Rst=0|Load=0|Count=13 ||| Correct=        602 | Error =         777
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+ERROR!!! Testcase 2: Check count value (greater than or equal to 0) or (less than 10)
+ERROR!!! Testcase 3_1: Load high , din>10, count == 4'b0
+Rst=0|Load=1|Count=13 ||| Correct=        602 | Error =         780
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+ERROR!!! Testcase 2: Check count value (greater than or equal to 0) or (less than 10)
+ERROR!!! Testcase 3_1: Load high , din>10, count == 4'b0
+Rst=0|Load=1|Count=14 ||| Correct=        602 | Error =         783
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+ERROR!!! Testcase 2: Check count value (greater than or equal to 0) or (less than 10)
+ERROR!!! Testcase 3_1: Load high , din>10, count == 4'b0
+Rst=0|Load=1|Count=14 ||| Correct=        602 | Error =         786
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+ERROR!!! Testcase 2: Check count value (greater than or equal to 0) or (less than 10)
+ERROR!!! Testcase 3_1: Load high , din>10, count == 4'b0
+Rst=0|Load=1|Count=15 ||| Correct=        602 | Error =         789
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+ERROR!!! Testcase 2: Check count value (greater than or equal to 0) or (less than 10)
+ERROR!!! Testcase 3_3: Load low ,count < 4'b10
+Rst=0|Load=0|Count=15 ||| Correct=        602 | Error =         792
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+ERROR!!! Testcase 2: Check count value (greater than or equal to 0) or (less than 10)
+ERROR!!! Testcase 3_3: Load low ,count < 4'b10
+Rst=0|Load=0|Count=15 ||| Correct=        602 | Error =         795
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+ERROR!!! Testcase 2: Check count value (greater than or equal to 0) or (less than 10)
+ERROR!!! Testcase 3_2: Load high , din<10, count < 4'b10
+Rst=0|Load=1|Count=15 ||| Correct=        602 | Error =         798
+Rst=0|Load=1|Count= 0 ||| Correct=        605 | Error =         798
+Rst=0|Load=1|Count= 0 ||| Correct=        608 | Error =         798
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=1|Count= 1 ||| Correct=        610 | Error =         799
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=0|Count= 1 ||| Correct=        612 | Error =         800
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=0|Count= 2 ||| Correct=        614 | Error =         801
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=0|Count= 2 ||| Correct=        616 | Error =         802
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=0|Count= 3 ||| Correct=        618 | Error =         803
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=0|Count= 4 ||| Correct=        620 | Error =         804
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=0|Count= 5 ||| Correct=        622 | Error =         805
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=1|Count= 5 ||| Correct=        624 | Error =         806
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=1|Count= 2 ||| Correct=        626 | Error =         807
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=1|Count= 2 ||| Correct=        628 | Error =         808
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=1|Count= 3 ||| Correct=        630 | Error =         809
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=0|Count= 3 ||| Correct=        632 | Error =         810
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=0|Count= 4 ||| Correct=        634 | Error =         811
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=0|Count= 4 ||| Correct=        636 | Error =         812
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=0|Count= 5 ||| Correct=        638 | Error =         813
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=0|Count= 6 ||| Correct=        640 | Error =         814
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=0|Count= 7 ||| Correct=        642 | Error =         815
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=1|Count= 7 ||| Correct=        644 | Error =         816
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=1|Count= 4 ||| Correct=        646 | Error =         817
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=1|Count= 4 ||| Correct=        648 | Error =         818
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=1|Count= 5 ||| Correct=        650 | Error =         819
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=0|Count= 5 ||| Correct=        652 | Error =         820
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=0|Count= 6 ||| Correct=        654 | Error =         821
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=0|Count= 6 ||| Correct=        656 | Error =         822
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=0|Count= 7 ||| Correct=        658 | Error =         823
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=0|Count= 8 ||| Correct=        660 | Error =         824
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=0|Count= 9 ||| Correct=        662 | Error =         825
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=1|Count= 9 ||| Correct=        664 | Error =         826
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=1|Count= 6 ||| Correct=        666 | Error =         827
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=1|Count= 6 ||| Correct=        668 | Error =         828
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=1|Count= 7 ||| Correct=        670 | Error =         829
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=0|Count= 7 ||| Correct=        672 | Error =         830
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=0|Count= 8 ||| Correct=        674 | Error =         831
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=0|Count= 8 ||| Correct=        676 | Error =         832
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=0|Count= 9 ||| Correct=        678 | Error =         833
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+ERROR!!! Testcase 2: Check count value (greater than or equal to 0) or (less than 10)
+ERROR!!! Testcase 3_3: Load low ,count < 4'b10
+Rst=0|Load=0|Count=10 ||| Correct=        678 | Error =         836
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+ERROR!!! Testcase 2: Check count value (greater than or equal to 0) or (less than 10)
+ERROR!!! Testcase 3_2: Load high , din<10, count < 4'b10
+Rst=0|Load=1|Count=10 ||| Correct=        678 | Error =         839
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=1|Count= 8 ||| Correct=        680 | Error =         840
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=1|Count= 8 ||| Correct=        682 | Error =         841
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=1|Count= 9 ||| Correct=        684 | Error =         842
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=0|Count= 9 ||| Correct=        686 | Error =         843
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+ERROR!!! Testcase 2: Check count value (greater than or equal to 0) or (less than 10)
+ERROR!!! Testcase 3_3: Load low ,count < 4'b10
+Rst=0|Load=0|Count=10 ||| Correct=        686 | Error =         846
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+ERROR!!! Testcase 2: Check count value (greater than or equal to 0) or (less than 10)
+ERROR!!! Testcase 3_3: Load low ,count < 4'b10
+Rst=0|Load=0|Count=10 ||| Correct=        686 | Error =         849
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+ERROR!!! Testcase 2: Check count value (greater than or equal to 0) or (less than 10)
+ERROR!!! Testcase 3_1: Load high , din>10, count == 4'b0
+Rst=0|Load=1|Count=10 ||| Correct=        686 | Error =         852
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+ERROR!!! Testcase 2: Check count value (greater than or equal to 0) or (less than 10)
+ERROR!!! Testcase 3_1: Load high , din>10, count == 4'b0
+Rst=0|Load=1|Count=10 ||| Correct=        686 | Error =         855
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+ERROR!!! Testcase 2: Check count value (greater than or equal to 0) or (less than 10)
+ERROR!!! Testcase 3_1: Load high , din>10, count == 4'b0
+Rst=0|Load=1|Count=11 ||| Correct=        686 | Error =         858
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+ERROR!!! Testcase 2: Check count value (greater than or equal to 0) or (less than 10)
+ERROR!!! Testcase 3_3: Load low ,count < 4'b10
+Rst=0|Load=0|Count=11 ||| Correct=        686 | Error =         861
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+ERROR!!! Testcase 2: Check count value (greater than or equal to 0) or (less than 10)
+ERROR!!! Testcase 3_3: Load low ,count < 4'b10
+Rst=0|Load=0|Count=11 ||| Correct=        686 | Error =         864
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+ERROR!!! Testcase 2: Check count value (greater than or equal to 0) or (less than 10)
+ERROR!!! Testcase 3_1: Load high , din>10, count == 4'b0
+Rst=0|Load=1|Count=11 ||| Correct=        686 | Error =         867
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+ERROR!!! Testcase 2: Check count value (greater than or equal to 0) or (less than 10)
+ERROR!!! Testcase 3_1: Load high , din>10, count == 4'b0
+Rst=0|Load=1|Count=12 ||| Correct=        686 | Error =         870
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+ERROR!!! Testcase 2: Check count value (greater than or equal to 0) or (less than 10)
+ERROR!!! Testcase 3_1: Load high , din>10, count == 4'b0
+Rst=0|Load=1|Count=12 ||| Correct=        686 | Error =         873
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+ERROR!!! Testcase 2: Check count value (greater than or equal to 0) or (less than 10)
+ERROR!!! Testcase 3_1: Load high , din>10, count == 4'b0
+Rst=0|Load=1|Count=13 ||| Correct=        686 | Error =         876
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+ERROR!!! Testcase 2: Check count value (greater than or equal to 0) or (less than 10)
+ERROR!!! Testcase 3_3: Load low ,count < 4'b10
+Rst=0|Load=0|Count=13 ||| Correct=        686 | Error =         879
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+ERROR!!! Testcase 2: Check count value (greater than or equal to 0) or (less than 10)
+ERROR!!! Testcase 3_3: Load low ,count < 4'b10
+Rst=0|Load=0|Count=13 ||| Correct=        686 | Error =         882
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+ERROR!!! Testcase 2: Check count value (greater than or equal to 0) or (less than 10)
+ERROR!!! Testcase 3_1: Load high , din>10, count == 4'b0
+Rst=0|Load=1|Count=13 ||| Correct=        686 | Error =         885
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+ERROR!!! Testcase 2: Check count value (greater than or equal to 0) or (less than 10)
+ERROR!!! Testcase 3_1: Load high , din>10, count == 4'b0
+Rst=0|Load=1|Count=14 ||| Correct=        686 | Error =         888
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+ERROR!!! Testcase 2: Check count value (greater than or equal to 0) or (less than 10)
+ERROR!!! Testcase 3_1: Load high , din>10, count == 4'b0
+Rst=0|Load=1|Count=14 ||| Correct=        686 | Error =         891
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+ERROR!!! Testcase 2: Check count value (greater than or equal to 0) or (less than 10)
+ERROR!!! Testcase 3_1: Load high , din>10, count == 4'b0
+Rst=0|Load=1|Count=15 ||| Correct=        686 | Error =         894
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+ERROR!!! Testcase 2: Check count value (greater than or equal to 0) or (less than 10)
+ERROR!!! Testcase 3_3: Load low ,count < 4'b10
+Rst=0|Load=0|Count=15 ||| Correct=        686 | Error =         897
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+ERROR!!! Testcase 2: Check count value (greater than or equal to 0) or (less than 10)
+ERROR!!! Testcase 3_3: Load low ,count < 4'b10
+Rst=0|Load=0|Count=15 ||| Correct=        686 | Error =         900
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+ERROR!!! Testcase 2: Check count value (greater than or equal to 0) or (less than 10)
+ERROR!!! Testcase 3_2: Load high , din<10, count < 4'b10
+Rst=0|Load=1|Count=15 ||| Correct=        686 | Error =         903
+Rst=0|Load=1|Count= 0 ||| Correct=        689 | Error =         903
+Rst=0|Load=1|Count= 0 ||| Correct=        692 | Error =         903
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=1|Count= 1 ||| Correct=        694 | Error =         904
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=0|Count= 1 ||| Correct=        696 | Error =         905
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=0|Count= 2 ||| Correct=        698 | Error =         906
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=0|Count= 2 ||| Correct=        700 | Error =         907
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=0|Count= 3 ||| Correct=        702 | Error =         908
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=0|Count= 4 ||| Correct=        704 | Error =         909
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=0|Count= 5 ||| Correct=        706 | Error =         910
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=1|Count= 5 ||| Correct=        708 | Error =         911
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=1|Count= 2 ||| Correct=        710 | Error =         912
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=1|Count= 2 ||| Correct=        712 | Error =         913
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=1|Count= 3 ||| Correct=        714 | Error =         914
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=0|Count= 3 ||| Correct=        716 | Error =         915
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=0|Count= 4 ||| Correct=        718 | Error =         916
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=0|Count= 4 ||| Correct=        720 | Error =         917
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=0|Count= 5 ||| Correct=        722 | Error =         918
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=0|Count= 6 ||| Correct=        724 | Error =         919
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=0|Count= 7 ||| Correct=        726 | Error =         920
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=1|Count= 7 ||| Correct=        728 | Error =         921
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=1|Count= 4 ||| Correct=        730 | Error =         922
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=1|Count= 4 ||| Correct=        732 | Error =         923
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=1|Count= 5 ||| Correct=        734 | Error =         924
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=0|Count= 5 ||| Correct=        736 | Error =         925
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=0|Count= 6 ||| Correct=        738 | Error =         926
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=0|Count= 6 ||| Correct=        740 | Error =         927
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=0|Count= 7 ||| Correct=        742 | Error =         928
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=0|Count= 8 ||| Correct=        744 | Error =         929
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=0|Count= 9 ||| Correct=        746 | Error =         930
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=1|Count= 9 ||| Correct=        748 | Error =         931
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=1|Count= 6 ||| Correct=        750 | Error =         932
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=1|Count= 6 ||| Correct=        752 | Error =         933
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=1|Count= 7 ||| Correct=        754 | Error =         934
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=0|Count= 7 ||| Correct=        756 | Error =         935
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=0|Count= 8 ||| Correct=        758 | Error =         936
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=0|Count= 8 ||| Correct=        760 | Error =         937
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=0|Count= 9 ||| Correct=        762 | Error =         938
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+ERROR!!! Testcase 2: Check count value (greater than or equal to 0) or (less than 10)
+ERROR!!! Testcase 3_3: Load low ,count < 4'b10
+Rst=0|Load=0|Count=10 ||| Correct=        762 | Error =         941
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+ERROR!!! Testcase 2: Check count value (greater than or equal to 0) or (less than 10)
+ERROR!!! Testcase 3_2: Load high , din<10, count < 4'b10
+Rst=0|Load=1|Count=10 ||| Correct=        762 | Error =         944
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=1|Count= 8 ||| Correct=        764 | Error =         945
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=1|Count= 8 ||| Correct=        766 | Error =         946
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=1|Count= 9 ||| Correct=        768 | Error =         947
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=0|Count= 9 ||| Correct=        770 | Error =         948
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+ERROR!!! Testcase 2: Check count value (greater than or equal to 0) or (less than 10)
+ERROR!!! Testcase 3_3: Load low ,count < 4'b10
+Rst=0|Load=0|Count=10 ||| Correct=        770 | Error =         951
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+ERROR!!! Testcase 2: Check count value (greater than or equal to 0) or (less than 10)
+ERROR!!! Testcase 3_3: Load low ,count < 4'b10
+Rst=0|Load=0|Count=10 ||| Correct=        770 | Error =         954
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+ERROR!!! Testcase 2: Check count value (greater than or equal to 0) or (less than 10)
+ERROR!!! Testcase 3_1: Load high , din>10, count == 4'b0
+Rst=0|Load=1|Count=10 ||| Correct=        770 | Error =         957
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+ERROR!!! Testcase 2: Check count value (greater than or equal to 0) or (less than 10)
+ERROR!!! Testcase 3_1: Load high , din>10, count == 4'b0
+Rst=0|Load=1|Count=10 ||| Correct=        770 | Error =         960
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+ERROR!!! Testcase 2: Check count value (greater than or equal to 0) or (less than 10)
+ERROR!!! Testcase 3_1: Load high , din>10, count == 4'b0
+Rst=0|Load=1|Count=11 ||| Correct=        770 | Error =         963
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+ERROR!!! Testcase 2: Check count value (greater than or equal to 0) or (less than 10)
+ERROR!!! Testcase 3_3: Load low ,count < 4'b10
+Rst=0|Load=0|Count=11 ||| Correct=        770 | Error =         966
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+ERROR!!! Testcase 2: Check count value (greater than or equal to 0) or (less than 10)
+ERROR!!! Testcase 3_3: Load low ,count < 4'b10
+Rst=0|Load=0|Count=11 ||| Correct=        770 | Error =         969
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+ERROR!!! Testcase 2: Check count value (greater than or equal to 0) or (less than 10)
+ERROR!!! Testcase 3_1: Load high , din>10, count == 4'b0
+Rst=0|Load=1|Count=11 ||| Correct=        770 | Error =         972
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+ERROR!!! Testcase 2: Check count value (greater than or equal to 0) or (less than 10)
+ERROR!!! Testcase 3_1: Load high , din>10, count == 4'b0
+Rst=0|Load=1|Count=12 ||| Correct=        770 | Error =         975
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+ERROR!!! Testcase 2: Check count value (greater than or equal to 0) or (less than 10)
+ERROR!!! Testcase 3_1: Load high , din>10, count == 4'b0
+Rst=0|Load=1|Count=12 ||| Correct=        770 | Error =         978
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+ERROR!!! Testcase 2: Check count value (greater than or equal to 0) or (less than 10)
+ERROR!!! Testcase 3_1: Load high , din>10, count == 4'b0
+Rst=0|Load=1|Count=13 ||| Correct=        770 | Error =         981
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+ERROR!!! Testcase 2: Check count value (greater than or equal to 0) or (less than 10)
+ERROR!!! Testcase 3_3: Load low ,count < 4'b10
+Rst=0|Load=0|Count=13 ||| Correct=        770 | Error =         984
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+ERROR!!! Testcase 2: Check count value (greater than or equal to 0) or (less than 10)
+ERROR!!! Testcase 3_3: Load low ,count < 4'b10
+Rst=0|Load=0|Count=13 ||| Correct=        770 | Error =         987
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+ERROR!!! Testcase 2: Check count value (greater than or equal to 0) or (less than 10)
+ERROR!!! Testcase 3_1: Load high , din>10, count == 4'b0
+Rst=0|Load=1|Count=13 ||| Correct=        770 | Error =         990
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+ERROR!!! Testcase 2: Check count value (greater than or equal to 0) or (less than 10)
+ERROR!!! Testcase 3_1: Load high , din>10, count == 4'b0
+Rst=0|Load=1|Count=14 ||| Correct=        770 | Error =         993
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+ERROR!!! Testcase 2: Check count value (greater than or equal to 0) or (less than 10)
+ERROR!!! Testcase 3_1: Load high , din>10, count == 4'b0
+Rst=0|Load=1|Count=14 ||| Correct=        770 | Error =         996
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+ERROR!!! Testcase 2: Check count value (greater than or equal to 0) or (less than 10)
+ERROR!!! Testcase 3_1: Load high , din>10, count == 4'b0
+Rst=0|Load=1|Count=15 ||| Correct=        770 | Error =         999
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+ERROR!!! Testcase 2: Check count value (greater than or equal to 0) or (less than 10)
+ERROR!!! Testcase 3_3: Load low ,count < 4'b10
+Rst=0|Load=0|Count=15 ||| Correct=        770 | Error =        1002
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+ERROR!!! Testcase 2: Check count value (greater than or equal to 0) or (less than 10)
+ERROR!!! Testcase 3_2: Load high , din<10, count < 4'b10
+Rst=0|Load=1|Count=15 ||| Correct=        770 | Error =        1005
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=1|Count= 9 ||| Correct=        772 | Error =        1006
+ERROR!!! Testcase 3_1: Load high , din>10, count == 4'b0
+Rst=1|Load=1|Count= 9 ||| Correct=        773 | Error =        1007
+Rst=1|Load=1|Count= 0 ||| Correct=        775 | Error =        1007
+Rst=1|Load=0|Count= 0 ||| Correct=        777 | Error =        1007
+Rst=1|Load=0|Count= 0 ||| Correct=        779 | Error =        1007
+Rst=1|Load=0|Count= 0 ||| Correct=        781 | Error =        1007
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+ERROR!!! Testcase 2: Check count value (greater than or equal to 0) or (less than 10)
+ERROR!!! Testcase 3_1: Load high , din>10, count == 4'b0
+Rst=0|Load=1|Count=10 ||| Correct=        784 | Error =        1010
+ERROR!!! Testcase 2: Check count value (greater than or equal to 0) or (less than 10)
+ERROR!!! Testcase 3_2: Load high , din<10, count < 4'b10
+Rst=1|Load=1|Count=10 ||| Correct=        784 | Error =        1012
+Rst=1|Load=1|Count= 0 ||| Correct=        786 | Error =        1012
+Rst=1|Load=0|Count= 0 ||| Correct=        788 | Error =        1012
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+ERROR!!! Testcase 2: Check count value (greater than or equal to 0) or (less than 10)
+ERROR!!! Testcase 3_1: Load high , din>10, count == 4'b0
+Rst=0|Load=1|Count=12 ||| Correct=        791 | Error =        1015
+ERROR!!! Testcase 2: Check count value (greater than or equal to 0) or (less than 10)
+ERROR!!! Testcase 3_2: Load high , din<10, count < 4'b10
+Rst=1|Load=1|Count=12 ||| Correct=        791 | Error =        1017
+Rst=1|Load=1|Count= 0 ||| Correct=        793 | Error =        1017
+Rst=1|Load=0|Count= 0 ||| Correct=        795 | Error =        1017
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=0|Count= 1 ||| Correct=        800 | Error =        1018
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=0|Count= 2 ||| Correct=        802 | Error =        1019
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=0|Count= 3 ||| Correct=        804 | Error =        1020
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+ERROR!!! Testcase 3_1: Load high , din>10, count == 4'b0
+Rst=0|Load=1|Count= 3 ||| Correct=        805 | Error =        1022
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+ERROR!!! Testcase 2: Check count value (greater than or equal to 0) or (less than 10)
+ERROR!!! Testcase 3_1: Load high , din>10, count == 4'b0
+Rst=0|Load=1|Count=13 ||| Correct=        805 | Error =        1025
+ERROR!!! Testcase 2: Check count value (greater than or equal to 0) or (less than 10)
+ERROR!!! Testcase 3_2: Load high , din<10, count < 4'b10
+Rst=1|Load=1|Count=13 ||| Correct=        805 | Error =        1027
+Rst=1|Load=1|Count= 0 ||| Correct=        807 | Error =        1027
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=0|Count= 1 ||| Correct=        812 | Error =        1028
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=0|Count= 2 ||| Correct=        814 | Error =        1029
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=0|Count= 3 ||| Correct=        816 | Error =        1030
+ERROR!!! Testcase 3_1: Load high , din>10, count == 4'b0
+Rst=1|Load=1|Count= 3 ||| Correct=        817 | Error =        1031
+Rst=1|Load=1|Count= 0 ||| Correct=        819 | Error =        1031
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=0|Count= 1 ||| Correct=        824 | Error =        1032
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=0|Count= 2 ||| Correct=        826 | Error =        1033
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=0|Count= 3 ||| Correct=        828 | Error =        1034
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=1|Count= 3 ||| Correct=        830 | Error =        1035
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=1|Count= 8 ||| Correct=        832 | Error =        1036
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+ERROR!!! Testcase 3_1: Load high , din>10, count == 4'b0
+Rst=0|Load=1|Count= 8 ||| Correct=        833 | Error =        1038
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+ERROR!!! Testcase 2: Check count value (greater than or equal to 0) or (less than 10)
+ERROR!!! Testcase 3_1: Load high , din>10, count == 4'b0
+Rst=0|Load=1|Count=11 ||| Correct=        833 | Error =        1041
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+ERROR!!! Testcase 2: Check count value (greater than or equal to 0) or (less than 10)
+ERROR!!! Testcase 3_3: Load low ,count < 4'b10
+Rst=0|Load=0|Count=11 ||| Correct=        833 | Error =        1044
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+ERROR!!! Testcase 2: Check count value (greater than or equal to 0) or (less than 10)
+ERROR!!! Testcase 3_3: Load low ,count < 4'b10
+Rst=0|Load=0|Count=11 ||| Correct=        833 | Error =        1047
+ERROR!!! Testcase 2: Check count value (greater than or equal to 0) or (less than 10)
+ERROR!!! Testcase 3_1: Load high , din>10, count == 4'b0
+Rst=1|Load=1|Count=11 ||| Correct=        833 | Error =        1049
+Rst=1|Load=1|Count= 0 ||| Correct=        835 | Error =        1049
+Rst=1|Load=0|Count= 0 ||| Correct=        837 | Error =        1049
+Rst=1|Load=1|Count= 0 ||| Correct=        839 | Error =        1049
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=0|Count= 1 ||| Correct=        844 | Error =        1050
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=0|Count= 2 ||| Correct=        846 | Error =        1051
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=0|Count= 3 ||| Correct=        848 | Error =        1052
+Rst=1|Load=0|Count= 3 ||| Correct=        850 | Error =        1052
+Rst=1|Load=0|Count= 0 ||| Correct=        852 | Error =        1052
+Rst=1|Load=0|Count= 0 ||| Correct=        854 | Error =        1052
+Rst=1|Load=1|Count= 0 ||| Correct=        856 | Error =        1052
+Rst=1|Load=1|Count= 0 ||| Correct=        858 | Error =        1052
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=0|Count= 1 ||| Correct=        863 | Error =        1053
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=0|Count= 2 ||| Correct=        865 | Error =        1054
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=0|Count= 3 ||| Correct=        867 | Error =        1055
+Rst=1|Load=1|Count= 3 ||| Correct=        869 | Error =        1055
+Rst=1|Load=1|Count= 0 ||| Correct=        871 | Error =        1055
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=1|Count= 9 ||| Correct=        876 | Error =        1056
+Rst=1|Load=1|Count= 9 ||| Correct=        878 | Error =        1056
+Rst=1|Load=1|Count= 0 ||| Correct=        880 | Error =        1056
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=1|Count= 9 ||| Correct=        885 | Error =        1057
+Rst=1|Load=0|Count= 9 ||| Correct=        887 | Error =        1057
+Rst=1|Load=0|Count= 0 ||| Correct=        889 | Error =        1057
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=0|Count= 1 ||| Correct=        894 | Error =        1058
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=0|Count= 2 ||| Correct=        896 | Error =        1059
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=0|Count= 3 ||| Correct=        898 | Error =        1060
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=0|Count= 3 ||| Correct=        900 | Error =        1061
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=0|Count= 4 ||| Correct=        902 | Error =        1062
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=0|Count= 5 ||| Correct=        904 | Error =        1063
+Rst=1|Load=1|Count= 5 ||| Correct=        906 | Error =        1063
+Rst=1|Load=1|Count= 0 ||| Correct=        908 | Error =        1063
+Rst=1|Load=0|Count= 0 ||| Correct=        910 | Error =        1063
+Rst=1|Load=0|Count= 0 ||| Correct=        912 | Error =        1063
+Rst=1|Load=1|Count= 0 ||| Correct=        914 | Error =        1063
+Rst=1|Load=1|Count= 0 ||| Correct=        916 | Error =        1063
+Rst=1|Load=0|Count= 0 ||| Correct=        918 | Error =        1063
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+ERROR!!! Testcase 2: Check count value (greater than or equal to 0) or (less than 10)
+ERROR!!! Testcase 3_1: Load high , din>10, count == 4'b0
+Rst=0|Load=1|Count=14 ||| Correct=        921 | Error =        1066
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+ERROR!!! Testcase 2: Check count value (greater than or equal to 0) or (less than 10)
+ERROR!!! Testcase 3_3: Load low ,count < 4'b10
+Rst=0|Load=0|Count=14 ||| Correct=        921 | Error =        1069
+ERROR!!! Testcase 2: Check count value (greater than or equal to 0) or (less than 10)
+ERROR!!! Testcase 3_3: Load low ,count < 4'b10
+Rst=1|Load=0|Count=14 ||| Correct=        921 | Error =        1071
+Rst=1|Load=0|Count= 0 ||| Correct=        923 | Error =        1071
+Rst=1|Load=0|Count= 0 ||| Correct=        925 | Error =        1071
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=1|Count= 8 ||| Correct=        930 | Error =        1072
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=1|Count= 8 ||| Correct=        932 | Error =        1073
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=1|Count= 4 ||| Correct=        934 | Error =        1074
+ERROR!!! Testcase 3_1: Load high , din>10, count == 4'b0
+Rst=1|Load=1|Count= 4 ||| Correct=        935 | Error =        1075
+Rst=1|Load=1|Count= 0 ||| Correct=        937 | Error =        1075
+Rst=1|Load=1|Count= 0 ||| Correct=        939 | Error =        1075
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=0|Count= 1 ||| Correct=        944 | Error =        1076
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=0|Count= 2 ||| Correct=        946 | Error =        1077
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=0|Count= 3 ||| Correct=        948 | Error =        1078
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=0|Count= 3 ||| Correct=        950 | Error =        1079
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=0|Count= 4 ||| Correct=        952 | Error =        1080
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=0|Count= 5 ||| Correct=        954 | Error =        1081
+Rst=1|Load=0|Count= 5 ||| Correct=        956 | Error =        1081
+Rst=1|Load=0|Count= 0 ||| Correct=        958 | Error =        1081
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=1|Count= 7 ||| Correct=        963 | Error =        1082
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=0|Count= 7 ||| Correct=        965 | Error =        1083
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=0|Count= 8 ||| Correct=        967 | Error =        1084
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=0|Count= 9 ||| Correct=        969 | Error =        1085
+ERROR!!! Testcase 3_1: Load high , din>10, count == 4'b0
+Rst=1|Load=1|Count= 9 ||| Correct=        970 | Error =        1086
+Rst=1|Load=1|Count= 0 ||| Correct=        972 | Error =        1086
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=0|Count= 1 ||| Correct=        977 | Error =        1087
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=0|Count= 2 ||| Correct=        979 | Error =        1088
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=0|Count= 3 ||| Correct=        981 | Error =        1089
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=0|Count= 3 ||| Correct=        983 | Error =        1090
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=0|Count= 4 ||| Correct=        985 | Error =        1091
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=0|Count= 5 ||| Correct=        987 | Error =        1092
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=0|Count= 5 ||| Correct=        989 | Error =        1093
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=0|Count= 6 ||| Correct=        991 | Error =        1094
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=0|Count= 7 ||| Correct=        993 | Error =        1095
+Rst=1|Load=0|Count= 7 ||| Correct=        995 | Error =        1095
+Rst=1|Load=0|Count= 0 ||| Correct=        997 | Error =        1095
+Rst=1|Load=0|Count= 0 ||| Correct=        999 | Error =        1095
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=0|Count= 1 ||| Correct=       1004 | Error =        1096
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=0|Count= 2 ||| Correct=       1006 | Error =        1097
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=0|Count= 3 ||| Correct=       1008 | Error =        1098
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=0|Count= 3 ||| Correct=       1010 | Error =        1099
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=0|Count= 4 ||| Correct=       1012 | Error =        1100
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=0|Count= 5 ||| Correct=       1014 | Error =        1101
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+ERROR!!! Testcase 3_1: Load high , din>10, count == 4'b0
+Rst=0|Load=1|Count= 5 ||| Correct=       1015 | Error =        1103
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+ERROR!!! Testcase 2: Check count value (greater than or equal to 0) or (less than 10)
+ERROR!!! Testcase 3_1: Load high , din>10, count == 4'b0
+Rst=0|Load=1|Count=15 ||| Correct=       1015 | Error =        1106
+ERROR!!! Testcase 2: Check count value (greater than or equal to 0) or (less than 10)
+ERROR!!! Testcase 3_3: Load low ,count < 4'b10
+Rst=1|Load=0|Count=15 ||| Correct=       1015 | Error =        1108
+Rst=1|Load=0|Count= 0 ||| Correct=       1017 | Error =        1108
+Rst=1|Load=1|Count= 0 ||| Correct=       1019 | Error =        1108
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=1|Count= 5 ||| Correct=       1024 | Error =        1109
+Rst=1|Load=1|Count= 5 ||| Correct=       1026 | Error =        1109
+Rst=1|Load=1|Count= 0 ||| Correct=       1028 | Error =        1109
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=1|Count= 3 ||| Correct=       1033 | Error =        1110
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=0|Count= 3 ||| Correct=       1035 | Error =        1111
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=0|Count= 4 ||| Correct=       1037 | Error =        1112
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=0|Count= 5 ||| Correct=       1039 | Error =        1113
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=1|Count= 5 ||| Correct=       1041 | Error =        1114
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=1|Count= 1 ||| Correct=       1043 | Error =        1115
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=0|Count= 1 ||| Correct=       1045 | Error =        1116
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=0|Count= 2 ||| Correct=       1047 | Error =        1117
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=0|Count= 3 ||| Correct=       1049 | Error =        1118
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=0|Count= 3 ||| Correct=       1051 | Error =        1119
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=0|Count= 4 ||| Correct=       1053 | Error =        1120
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=0|Count= 5 ||| Correct=       1055 | Error =        1121
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=0|Count= 5 ||| Correct=       1057 | Error =        1122
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=0|Count= 6 ||| Correct=       1059 | Error =        1123
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=0|Count= 7 ||| Correct=       1061 | Error =        1124
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=0|Count= 7 ||| Correct=       1063 | Error =        1125
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=0|Count= 8 ||| Correct=       1065 | Error =        1126
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=0|Count= 9 ||| Correct=       1067 | Error =        1127
+Rst=1|Load=1|Count= 9 ||| Correct=       1069 | Error =        1127
+Rst=1|Load=1|Count= 0 ||| Correct=       1071 | Error =        1127
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=0|Count= 1 ||| Correct=       1076 | Error =        1128
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=0|Count= 2 ||| Correct=       1078 | Error =        1129
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=0|Count= 3 ||| Correct=       1080 | Error =        1130
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=0|Count= 3 ||| Correct=       1082 | Error =        1131
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=0|Count= 4 ||| Correct=       1084 | Error =        1132
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=0|Count= 5 ||| Correct=       1086 | Error =        1133
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=0|Count= 5 ||| Correct=       1088 | Error =        1134
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=0|Count= 6 ||| Correct=       1090 | Error =        1135
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=0|Count= 7 ||| Correct=       1092 | Error =        1136
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=1|Count= 7 ||| Correct=       1094 | Error =        1137
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=1|Count= 4 ||| Correct=       1096 | Error =        1138
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=0|Count= 4 ||| Correct=       1098 | Error =        1139
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=0|Count= 5 ||| Correct=       1100 | Error =        1140
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=0|Count= 6 ||| Correct=       1102 | Error =        1141
+Rst=1|Load=0|Count= 6 ||| Correct=       1104 | Error =        1141
+Rst=1|Load=0|Count= 0 ||| Correct=       1106 | Error =        1141
+Rst=1|Load=1|Count= 0 ||| Correct=       1108 | Error =        1141
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+ERROR!!! Testcase 2: Check count value (greater than or equal to 0) or (less than 10)
+ERROR!!! Testcase 3_1: Load high , din>10, count == 4'b0
+Rst=0|Load=1|Count=15 ||| Correct=       1111 | Error =        1144
+ERROR!!! Testcase 2: Check count value (greater than or equal to 0) or (less than 10)
+ERROR!!! Testcase 3_3: Load low ,count < 4'b10
+Rst=1|Load=0|Count=15 ||| Correct=       1111 | Error =        1146
+Rst=1|Load=0|Count= 0 ||| Correct=       1113 | Error =        1146
+Rst=1|Load=0|Count= 0 ||| Correct=       1115 | Error =        1146
+Rst=1|Load=1|Count= 0 ||| Correct=       1117 | Error =        1146
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+ERROR!!! Testcase 2: Check count value (greater than or equal to 0) or (less than 10)
+ERROR!!! Testcase 3_1: Load high , din>10, count == 4'b0
+Rst=0|Load=1|Count=12 ||| Correct=       1120 | Error =        1149
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+ERROR!!! Testcase 2: Check count value (greater than or equal to 0) or (less than 10)
+ERROR!!! Testcase 3_2: Load high , din<10, count < 4'b10
+Rst=0|Load=1|Count=12 ||| Correct=       1120 | Error =        1152
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=1|Count= 6 ||| Correct=       1122 | Error =        1153
+Rst=1|Load=1|Count= 6 ||| Correct=       1124 | Error =        1153
+Rst=1|Load=1|Count= 0 ||| Correct=       1126 | Error =        1153
+Rst=1|Load=0|Count= 0 ||| Correct=       1128 | Error =        1153
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=0|Count= 1 ||| Correct=       1133 | Error =        1154
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=0|Count= 2 ||| Correct=       1135 | Error =        1155
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=0|Count= 3 ||| Correct=       1137 | Error =        1156
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=0|Count= 3 ||| Correct=       1139 | Error =        1157
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=0|Count= 4 ||| Correct=       1141 | Error =        1158
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=0|Count= 5 ||| Correct=       1143 | Error =        1159
+Rst=1|Load=1|Count= 5 ||| Correct=       1145 | Error =        1159
+Rst=1|Load=1|Count= 0 ||| Correct=       1147 | Error =        1159
+Rst=1|Load=1|Count= 0 ||| Correct=       1149 | Error =        1159
+Rst=1|Load=1|Count= 0 ||| Correct=       1151 | Error =        1159
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=0|Count= 1 ||| Correct=       1156 | Error =        1160
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=0|Count= 2 ||| Correct=       1158 | Error =        1161
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=0|Count= 3 ||| Correct=       1160 | Error =        1162
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=0|Count= 4 ||| Correct=       1162 | Error =        1163
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=0|Count= 5 ||| Correct=       1164 | Error =        1164
+ERROR!!! Testcase 3_1: Load high , din>10, count == 4'b0
+Rst=1|Load=1|Count= 5 ||| Correct=       1165 | Error =        1165
+Rst=1|Load=1|Count= 0 ||| Correct=       1167 | Error =        1165
+Rst=1|Load=0|Count= 0 ||| Correct=       1169 | Error =        1165
+Rst=1|Load=1|Count= 0 ||| Correct=       1171 | Error =        1165
+Rst=1|Load=1|Count= 0 ||| Correct=       1173 | Error =        1165
+Rst=1|Load=0|Count= 0 ||| Correct=       1175 | Error =        1165
+Rst=1|Load=1|Count= 0 ||| Correct=       1177 | Error =        1165
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=0|Count= 1 ||| Correct=       1182 | Error =        1166
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=0|Count= 2 ||| Correct=       1184 | Error =        1167
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=0|Count= 3 ||| Correct=       1186 | Error =        1168
+Rst=1|Load=0|Count= 3 ||| Correct=       1188 | Error =        1168
+Rst=1|Load=0|Count= 0 ||| Correct=       1190 | Error =        1168
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=0|Count= 1 ||| Correct=       1195 | Error =        1169
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=0|Count= 2 ||| Correct=       1197 | Error =        1170
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=0|Count= 3 ||| Correct=       1199 | Error =        1171
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=1|Count= 3 ||| Correct=       1201 | Error =        1172
+Rst=0|Load=1|Count= 0 ||| Correct=       1204 | Error =        1172
+Rst=0|Load=0|Count= 0 ||| Correct=       1207 | Error =        1172
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=0|Count= 1 ||| Correct=       1209 | Error =        1173
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=0|Count= 2 ||| Correct=       1211 | Error =        1174
+Rst=1|Load=1|Count= 2 ||| Correct=       1213 | Error =        1174
+Rst=1|Load=1|Count= 0 ||| Correct=       1215 | Error =        1174
+Rst=1|Load=1|Count= 0 ||| Correct=       1217 | Error =        1174
+Rst=1|Load=1|Count= 0 ||| Correct=       1219 | Error =        1174
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+ERROR!!! Testcase 2: Check count value (greater than or equal to 0) or (less than 10)
+ERROR!!! Testcase 3_1: Load high , din>10, count == 4'b0
+Rst=0|Load=1|Count=12 ||| Correct=       1222 | Error =        1177
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+ERROR!!! Testcase 2: Check count value (greater than or equal to 0) or (less than 10)
+ERROR!!! Testcase 3_1: Load high , din>10, count == 4'b0
+Rst=0|Load=1|Count=12 ||| Correct=       1222 | Error =        1180
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+ERROR!!! Testcase 2: Check count value (greater than or equal to 0) or (less than 10)
+ERROR!!! Testcase 3_1: Load high , din>10, count == 4'b0
+Rst=0|Load=1|Count=11 ||| Correct=       1222 | Error =        1183
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+ERROR!!! Testcase 2: Check count value (greater than or equal to 0) or (less than 10)
+ERROR!!! Testcase 3_1: Load high , din>10, count == 4'b0
+Rst=0|Load=1|Count=11 ||| Correct=       1222 | Error =        1186
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+ERROR!!! Testcase 2: Check count value (greater than or equal to 0) or (less than 10)
+ERROR!!! Testcase 3_1: Load high , din>10, count == 4'b0
+Rst=0|Load=1|Count=14 ||| Correct=       1222 | Error =        1189
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+ERROR!!! Testcase 2: Check count value (greater than or equal to 0) or (less than 10)
+ERROR!!! Testcase 3_2: Load high , din<10, count < 4'b10
+Rst=0|Load=1|Count=14 ||| Correct=       1222 | Error =        1192
+Rst=0|Load=1|Count= 0 ||| Correct=       1225 | Error =        1192
+Rst=0|Load=0|Count= 0 ||| Correct=       1228 | Error =        1192
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=0|Count= 1 ||| Correct=       1230 | Error =        1193
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=0|Count= 2 ||| Correct=       1232 | Error =        1194
+ERROR!!! Testcase 3_1: Load high , din>10, count == 4'b0
+Rst=1|Load=1|Count= 2 ||| Correct=       1233 | Error =        1195
+Rst=1|Load=1|Count= 0 ||| Correct=       1235 | Error =        1195
+Rst=1|Load=0|Count= 0 ||| Correct=       1237 | Error =        1195
+Rst=1|Load=1|Count= 0 ||| Correct=       1239 | Error =        1195
+Rst=1|Load=1|Count= 0 ||| Correct=       1241 | Error =        1195
+Rst=0|Load=1|Count= 0 ||| Correct=       1244 | Error =        1195
+Rst=1|Load=0|Count= 0 ||| Correct=       1246 | Error =        1195
+Rst=1|Load=0|Count= 0 ||| Correct=       1248 | Error =        1195
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=0|Count= 1 ||| Correct=       1253 | Error =        1196
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=0|Count= 2 ||| Correct=       1255 | Error =        1197
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=0|Count= 3 ||| Correct=       1257 | Error =        1198
+Rst=1|Load=0|Count= 3 ||| Correct=       1259 | Error =        1198
+Rst=1|Load=0|Count= 0 ||| Correct=       1261 | Error =        1198
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=0|Count= 1 ||| Correct=       1266 | Error =        1199
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=0|Count= 2 ||| Correct=       1268 | Error =        1200
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=0|Count= 3 ||| Correct=       1270 | Error =        1201
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=1|Count= 3 ||| Correct=       1272 | Error =        1202
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=1|Count= 6 ||| Correct=       1274 | Error =        1203
+Rst=1|Load=0|Count= 6 ||| Correct=       1276 | Error =        1203
+Rst=1|Load=0|Count= 0 ||| Correct=       1278 | Error =        1203
+Rst=1|Load=0|Count= 0 ||| Correct=       1280 | Error =        1203
+Rst=1|Load=0|Count= 0 ||| Correct=       1282 | Error =        1203
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=1|Count= 4 ||| Correct=       1287 | Error =        1204
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=0|Count= 4 ||| Correct=       1289 | Error =        1205
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=0|Count= 5 ||| Correct=       1291 | Error =        1206
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=0|Count= 6 ||| Correct=       1293 | Error =        1207
+Rst=1|Load=0|Count= 6 ||| Correct=       1295 | Error =        1207
+Rst=1|Load=0|Count= 0 ||| Correct=       1297 | Error =        1207
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=1|Count= 3 ||| Correct=       1302 | Error =        1208
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=1|Count= 3 ||| Correct=       1304 | Error =        1209
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=1|Count= 4 ||| Correct=       1306 | Error =        1210
+ERROR!!! Testcase 3_1: Load high , din>10, count == 4'b0
+Rst=1|Load=1|Count= 4 ||| Correct=       1307 | Error =        1211
+Rst=1|Load=1|Count= 0 ||| Correct=       1309 | Error =        1211
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+ERROR!!! Testcase 2: Check count value (greater than or equal to 0) or (less than 10)
+ERROR!!! Testcase 3_1: Load high , din>10, count == 4'b0
+Rst=0|Load=1|Count=13 ||| Correct=       1312 | Error =        1214
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+ERROR!!! Testcase 2: Check count value (greater than or equal to 0) or (less than 10)
+ERROR!!! Testcase 3_3: Load low ,count < 4'b10
+Rst=0|Load=0|Count=13 ||| Correct=       1312 | Error =        1217
+ERROR!!! Testcase 2: Check count value (greater than or equal to 0) or (less than 10)
+ERROR!!! Testcase 3_3: Load low ,count < 4'b10
+Rst=1|Load=0|Count=13 ||| Correct=       1312 | Error =        1219
+Rst=1|Load=0|Count= 0 ||| Correct=       1314 | Error =        1219
+Rst=1|Load=1|Count= 0 ||| Correct=       1316 | Error =        1219
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+ERROR!!! Testcase 2: Check count value (greater than or equal to 0) or (less than 10)
+ERROR!!! Testcase 3_1: Load high , din>10, count == 4'b0
+Rst=0|Load=1|Count=10 ||| Correct=       1319 | Error =        1222
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+ERROR!!! Testcase 2: Check count value (greater than or equal to 0) or (less than 10)
+ERROR!!! Testcase 3_2: Load high , din<10, count < 4'b10
+Rst=0|Load=1|Count=10 ||| Correct=       1319 | Error =        1225
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=1|Count= 9 ||| Correct=       1321 | Error =        1226
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=0|Count= 9 ||| Correct=       1323 | Error =        1227
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+ERROR!!! Testcase 2: Check count value (greater than or equal to 0) or (less than 10)
+ERROR!!! Testcase 3_3: Load low ,count < 4'b10
+Rst=0|Load=0|Count=10 ||| Correct=       1323 | Error =        1230
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+ERROR!!! Testcase 2: Check count value (greater than or equal to 0) or (less than 10)
+ERROR!!! Testcase 3_3: Load low ,count < 4'b10
+Rst=0|Load=0|Count=10 ||| Correct=       1323 | Error =        1233
+ERROR!!! Testcase 2: Check count value (greater than or equal to 0) or (less than 10)
+ERROR!!! Testcase 3_3: Load low ,count < 4'b10
+Rst=1|Load=0|Count=10 ||| Correct=       1323 | Error =        1235
+Rst=1|Load=0|Count= 0 ||| Correct=       1325 | Error =        1235
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=1|Count= 9 ||| Correct=       1330 | Error =        1236
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=1|Count= 9 ||| Correct=       1332 | Error =        1237
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=1|Count= 5 ||| Correct=       1334 | Error =        1238
+Rst=1|Load=0|Count= 5 ||| Correct=       1336 | Error =        1238
+Rst=1|Load=0|Count= 0 ||| Correct=       1338 | Error =        1238
+Rst=1|Load=1|Count= 0 ||| Correct=       1340 | Error =        1238
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=1|Count= 4 ||| Correct=       1345 | Error =        1239
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=1|Count= 4 ||| Correct=       1347 | Error =        1240
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=1|Count= 6 ||| Correct=       1349 | Error =        1241
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=1|Count= 6 ||| Correct=       1351 | Error =        1242
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=1|Count= 5 ||| Correct=       1353 | Error =        1243
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=1|Count= 5 ||| Correct=       1355 | Error =        1244
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=1|Count= 6 ||| Correct=       1357 | Error =        1245
+Rst=1|Load=1|Count= 6 ||| Correct=       1359 | Error =        1245
+Rst=1|Load=1|Count= 0 ||| Correct=       1361 | Error =        1245
+Rst=1|Load=0|Count= 0 ||| Correct=       1363 | Error =        1245
+Rst=1|Load=0|Count= 0 ||| Correct=       1365 | Error =        1245
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=1|Count= 9 ||| Correct=       1370 | Error =        1246
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=0|Count= 9 ||| Correct=       1372 | Error =        1247
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+ERROR!!! Testcase 2: Check count value (greater than or equal to 0) or (less than 10)
+ERROR!!! Testcase 3_3: Load low ,count < 4'b10
+Rst=0|Load=0|Count=10 ||| Correct=       1372 | Error =        1250
+ERROR!!! Testcase 2: Check count value (greater than or equal to 0) or (less than 10)
+ERROR!!! Testcase 3_1: Load high , din>10, count == 4'b0
+Rst=1|Load=1|Count=10 ||| Correct=       1372 | Error =        1252
+Rst=1|Load=1|Count= 0 ||| Correct=       1374 | Error =        1252
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=1|Count= 8 ||| Correct=       1379 | Error =        1253
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=1|Count= 8 ||| Correct=       1381 | Error =        1254
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=1|Count= 1 ||| Correct=       1383 | Error =        1255
+Rst=1|Load=0|Count= 1 ||| Correct=       1385 | Error =        1255
+Rst=1|Load=0|Count= 0 ||| Correct=       1387 | Error =        1255
+Rst=1|Load=0|Count= 0 ||| Correct=       1389 | Error =        1255
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=1|Count= 1 ||| Correct=       1394 | Error =        1256
+Rst=1|Load=0|Count= 1 ||| Correct=       1396 | Error =        1256
+Rst=1|Load=0|Count= 0 ||| Correct=       1398 | Error =        1256
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+ERROR!!! Testcase 2: Check count value (greater than or equal to 0) or (less than 10)
+ERROR!!! Testcase 3_1: Load high , din>10, count == 4'b0
+Rst=0|Load=1|Count=15 ||| Correct=       1401 | Error =        1259
+ERROR!!! Testcase 2: Check count value (greater than or equal to 0) or (less than 10)
+ERROR!!! Testcase 3_1: Load high , din>10, count == 4'b0
+Rst=1|Load=1|Count=15 ||| Correct=       1401 | Error =        1261
+Rst=1|Load=1|Count= 0 ||| Correct=       1403 | Error =        1261
+Rst=1|Load=1|Count= 0 ||| Correct=       1405 | Error =        1261
+Rst=1|Load=1|Count= 0 ||| Correct=       1407 | Error =        1261
+Rst=1|Load=0|Count= 0 ||| Correct=       1409 | Error =        1261
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=0|Count= 1 ||| Correct=       1414 | Error =        1262
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=0|Count= 2 ||| Correct=       1416 | Error =        1263
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=0|Count= 3 ||| Correct=       1418 | Error =        1264
+Rst=1|Load=1|Count= 3 ||| Correct=       1420 | Error =        1264
+Rst=1|Load=1|Count= 0 ||| Correct=       1422 | Error =        1264
+Rst=1|Load=1|Count= 0 ||| Correct=       1424 | Error =        1264
+Rst=1|Load=1|Count= 0 ||| Correct=       1426 | Error =        1264
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=0|Count= 1 ||| Correct=       1431 | Error =        1265
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=0|Count= 2 ||| Correct=       1433 | Error =        1266
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=0|Count= 3 ||| Correct=       1435 | Error =        1267
+Rst=1|Load=0|Count= 3 ||| Correct=       1437 | Error =        1267
+Rst=1|Load=0|Count= 0 ||| Correct=       1439 | Error =        1267
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=1|Count= 5 ||| Correct=       1444 | Error =        1268
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=0|Count= 5 ||| Correct=       1446 | Error =        1269
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=0|Count= 6 ||| Correct=       1448 | Error =        1270
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=0|Count= 7 ||| Correct=       1450 | Error =        1271
+Rst=1|Load=1|Count= 7 ||| Correct=       1452 | Error =        1271
+Rst=1|Load=1|Count= 0 ||| Correct=       1454 | Error =        1271
+Rst=1|Load=0|Count= 0 ||| Correct=       1456 | Error =        1271
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=0|Count= 1 ||| Correct=       1461 | Error =        1272
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=0|Count= 2 ||| Correct=       1463 | Error =        1273
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=0|Count= 3 ||| Correct=       1465 | Error =        1274
+Rst=1|Load=1|Count= 3 ||| Correct=       1467 | Error =        1274
+Rst=1|Load=1|Count= 0 ||| Correct=       1469 | Error =        1274
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+ERROR!!! Testcase 2: Check count value (greater than or equal to 0) or (less than 10)
+ERROR!!! Testcase 3_1: Load high , din>10, count == 4'b0
+Rst=0|Load=1|Count=12 ||| Correct=       1472 | Error =        1277
+ERROR!!! Testcase 2: Check count value (greater than or equal to 0) or (less than 10)
+ERROR!!! Testcase 3_3: Load low ,count < 4'b10
+Rst=1|Load=0|Count=12 ||| Correct=       1472 | Error =        1279
+Rst=1|Load=0|Count= 0 ||| Correct=       1474 | Error =        1279
+Rst=1|Load=0|Count= 0 ||| Correct=       1476 | Error =        1279
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=0|Count= 1 ||| Correct=       1481 | Error =        1280
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=0|Count= 2 ||| Correct=       1483 | Error =        1281
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=0|Count= 3 ||| Correct=       1485 | Error =        1282
+Rst=1|Load=0|Count= 3 ||| Correct=       1487 | Error =        1282
+Rst=1|Load=0|Count= 0 ||| Correct=       1489 | Error =        1282
+Rst=1|Load=0|Count= 0 ||| Correct=       1491 | Error =        1282
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+ERROR!!! Testcase 2: Check count value (greater than or equal to 0) or (less than 10)
+ERROR!!! Testcase 3_1: Load high , din>10, count == 4'b0
+Rst=0|Load=1|Count=13 ||| Correct=       1494 | Error =        1285
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+ERROR!!! Testcase 2: Check count value (greater than or equal to 0) or (less than 10)
+ERROR!!! Testcase 3_2: Load high , din<10, count < 4'b10
+Rst=0|Load=1|Count=13 ||| Correct=       1494 | Error =        1288
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=1|Count= 9 ||| Correct=       1496 | Error =        1289
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=0|Count= 9 ||| Correct=       1498 | Error =        1290
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+ERROR!!! Testcase 2: Check count value (greater than or equal to 0) or (less than 10)
+ERROR!!! Testcase 3_3: Load low ,count < 4'b10
+Rst=0|Load=0|Count=10 ||| Correct=       1498 | Error =        1293
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+ERROR!!! Testcase 2: Check count value (greater than or equal to 0) or (less than 10)
+ERROR!!! Testcase 3_1: Load high , din>10, count == 4'b0
+Rst=0|Load=1|Count=10 ||| Correct=       1498 | Error =        1296
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+ERROR!!! Testcase 2: Check count value (greater than or equal to 0) or (less than 10)
+ERROR!!! Testcase 3_1: Load high , din>10, count == 4'b0
+Rst=0|Load=1|Count=13 ||| Correct=       1498 | Error =        1299
+ERROR!!! Testcase 2: Check count value (greater than or equal to 0) or (less than 10)
+ERROR!!! Testcase 3_1: Load high , din>10, count == 4'b0
+Rst=1|Load=1|Count=13 ||| Correct=       1498 | Error =        1301
+Rst=1|Load=1|Count= 0 ||| Correct=       1500 | Error =        1301
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=0|Count= 1 ||| Correct=       1505 | Error =        1302
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=0|Count= 2 ||| Correct=       1507 | Error =        1303
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=0|Count= 3 ||| Correct=       1509 | Error =        1304
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=0|Count= 3 ||| Correct=       1511 | Error =        1305
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=0|Count= 4 ||| Correct=       1513 | Error =        1306
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=0|Count= 5 ||| Correct=       1515 | Error =        1307
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=1|Count= 5 ||| Correct=       1517 | Error =        1308
+ERROR!!! Testcase 1 : Reset high check count equal to zero
+Rst=0|Load=1|Count= 3 ||| Correct=       1519 | Error =        1309
+mod10counter_test.v:46: $finish called at 10180 (1ns)
