@@ -1,13 +1,13 @@
 # Verilog-Based-Verification-of-a-MOD-10-Counter-Design
 
-##Description: Verification of MOD-10 Counter Using Verilog
+## Description: Verification of MOD-10 Counter Using Verilog
 
 This experiment focuses on the functional verification of a MOD-10 counter with load capability using Verilog HDL. 
 The given design consists of a 4-bit counter that counts from 0 to 9 and rolls over to 0 after reaching 9. 
 The counter also includes a load feature, where a 4-bit input value (din) can be loaded into the counter for one clock 
 cycle when the load signal is asserted.
 
-##Design File: mod10counter.v
+## Design File: mod10counter.v
 The design file implements a synchronous MOD-10 counter with the following features:
 
 1. Inputs and Outputs
@@ -28,7 +28,7 @@ The design file implements a synchronous MOD-10 counter with the following featu
 During verification, bugs in the reset and counting conditions were identified and corrected to ensure proper rollover and stable operation.
 
 
-##Testbench File: mod10counter_test.v
+## Testbench File: mod10counter_test.v
 The testbench was developed to thoroughly verify the functionality of the MOD-10 counter. The following tasks were performed:
 
 1. Clock Generation
@@ -50,13 +50,13 @@ The testbench was developed to thoroughly verify the functionality of the MOD-10
     Used $display and/or $monitor to print counter values.
     Used $dumpfile and $dumpvars for waveform analysis.
 
-##Simulation Results
+## Simulation Results
   A total of 2987 test cases were executed during verification.
   2937 test cases passed successfully
   50 test cases failed
       Pass Percentage Calculation:98.32607%
 
-##Conclusion
+## Conclusion
 The MOD-10 counter design was successfully verified using a structured Verilog testbench environment. The counter correctly performs:
 Reset operation
 Load operation
